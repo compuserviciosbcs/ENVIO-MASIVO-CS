@@ -1,0 +1,5026 @@
+[26-Jan-2026 23:18:12 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:18:12 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:18:12 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:18:12 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:18:12 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:18:12 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:18:12 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:18:12 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:18:12 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:18:12 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:18:12 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:18:12 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:18:12 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:18:12 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:18:12 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:18:12 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:18:37 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:18:37 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:18:37 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:18:37 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:18:37 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:18:37 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:18:37 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:18:37 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:18:37 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:18:37 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:18:37 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:18:37 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:18:37 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:18:37 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:18:37 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:18:37 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:10 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:10 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:10 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:10 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:10 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:10 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:10 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:10 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:10 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:10 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:10 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:10 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:10 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:10 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:10 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:10 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:14 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:14 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:14 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:14 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:14 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:14 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:14 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:14 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:14 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:14 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:14 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:14 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:14 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:14 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:14 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:14 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:32 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:32 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:32 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:32 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:32 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:32 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:32 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:32 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:32 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:32 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:32 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:32 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:32 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:32 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:32 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:32 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:35 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:35 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:35 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:35 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:35 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:35 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:35 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:35 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:35 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:35 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:35 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:35 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:35 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:35 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:35 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:19:35 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:53:04 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:53:04 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:53:04 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:53:04 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:53:04 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:53:04 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:53:04 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:53:04 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:53:04 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:53:04 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:53:04 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:53:04 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:53:04 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:53:04 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:53:04 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:53:04 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:53:44 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:53:44 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:53:44 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:53:44 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:53:44 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:53:44 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:53:44 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:53:44 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:53:44 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:53:44 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:53:44 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:53:44 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:53:44 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:53:44 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:53:44 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:53:44 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:53:45 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:53:45 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:53:45 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:53:45 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:53:45 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:53:45 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:53:45 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:53:45 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:53:45 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:53:45 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:53:45 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:53:45 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:53:45 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:53:45 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:53:45 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:53:45 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:59:26 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:59:26 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:59:26 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:59:26 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:59:26 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:59:26 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:59:26 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:59:26 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:59:26 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:59:26 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:59:26 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:59:26 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:59:26 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:59:26 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:59:26 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:59:26 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:59:37 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:59:37 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:59:37 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:59:37 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:59:37 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:59:37 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:59:37 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:59:37 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:59:37 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:59:37 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:59:37 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:59:37 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:59:37 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:59:37 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:59:37 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[26-Jan-2026 23:59:37 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[27-Jan-2026 00:04:53 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[27-Jan-2026 00:04:53 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[27-Jan-2026 00:04:53 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[27-Jan-2026 00:04:53 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[27-Jan-2026 00:04:53 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[27-Jan-2026 00:04:53 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[27-Jan-2026 00:04:53 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[27-Jan-2026 00:04:53 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[27-Jan-2026 00:04:53 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[27-Jan-2026 00:04:53 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[27-Jan-2026 00:04:53 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[27-Jan-2026 00:04:53 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[27-Jan-2026 00:04:53 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[27-Jan-2026 00:04:53 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[27-Jan-2026 00:04:53 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[27-Jan-2026 00:04:53 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[27-Jan-2026 00:04:53 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[27-Jan-2026 00:04:53 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[27-Jan-2026 00:04:53 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[27-Jan-2026 00:04:53 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[27-Jan-2026 00:04:53 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[27-Jan-2026 00:04:53 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[27-Jan-2026 00:04:53 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[27-Jan-2026 00:04:53 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[27-Jan-2026 00:04:53 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[27-Jan-2026 00:04:53 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[27-Jan-2026 00:04:53 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[27-Jan-2026 00:04:53 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[27-Jan-2026 00:04:53 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[27-Jan-2026 00:04:53 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[27-Jan-2026 00:04:53 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[27-Jan-2026 00:04:53 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 140
+[27-Jan-2026 00:21:54 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:54 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:54 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:54 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:54 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:54 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:54 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:54 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:54 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:54 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:54 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:54 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:54 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:54 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:54 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:54 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:57 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:57 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:57 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:57 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:57 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:57 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:57 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:57 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:57 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:57 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:57 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:57 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:57 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:57 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:57 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:57 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:57 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:57 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:57 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:57 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:57 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:57 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:57 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:57 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:57 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:57 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:57 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:57 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:57 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:57 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:57 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:57 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:58 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:21:59 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:27:57 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:27:57 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:27:57 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:27:57 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:27:57 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:27:57 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:27:57 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:27:57 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:27:57 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:27:57 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:27:57 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:27:57 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:27:57 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:27:57 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:27:57 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+[27-Jan-2026 00:27:57 UTC] PHP Warning:  strpos(): Empty needle in /home/compuse8/public_html/facturacion.wa/api.php on line 154
+--- PAYLOAD ENVIADO ---
+{
+    "messaging_product": "whatsapp",
+    "to": "526122002449",
+    "type": "template",
+    "template": {
+        "name": "promociones_meses",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1770245541_File-2026-02-03T122846.899.jpg"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "ssss"
+                    },
+                    {
+                        "type": "text",
+                        "text": "aaaaa"
+                    }
+                ]
+            }
+        ]
+    }
+}
+--- ERROR META ---
+{
+    "error": {
+        "message": "(#132000) Number of parameters does not match the expected number of params",
+        "type": "OAuthException",
+        "code": 132000,
+        "error_data": {
+            "messaging_product": "whatsapp",
+            "details": "body: number of localizable_params (2) does not match the expected number of params (3)"
+        },
+        "fbtrace_id": "A0ld_C1EPDCovfzMTCG68gZ"
+    }
+}
+2026-02-04 16:29:24 SENDING TO 526122002449: {
+    "messaging_product": "whatsapp",
+    "to": "526122002449",
+    "type": "template",
+    "template": {
+        "name": "promociones_meses",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1770247740_logo.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "Brandon Von"
+                    },
+                    {
+                        "type": "text",
+                        "text": "febrero"
+                    },
+                    {
+                        "type": "text",
+                        "text": "todo el mes de febrero"
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+2026-02-04 16:29:24 ERROR RESPONSE: {
+    "error": {
+        "message": "(#131008) Required parameter is missing",
+        "type": "OAuthException",
+        "code": 131008,
+        "error_data": {
+            "messaging_product": "whatsapp",
+            "details": "buttons: Button at index 0 of type copy_code requires a non-empty parameter coupon_code"
+        },
+        "fbtrace_id": "ANJEP8o0-X5nOxvkI97-2C4"
+    }
+}
+2026-02-04 16:41:06 SENDING TO 526122002449: {
+    "messaging_product": "whatsapp",
+    "to": "526122002449",
+    "type": "template",
+    "template": {
+        "name": "promociones_meses",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1770248455_icon.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "Brandon Von"
+                    },
+                    {
+                        "type": "text",
+                        "text": "aaaaa"
+                    },
+                    {
+                        "type": "text",
+                        "text": "aaaaa"
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+2026-02-04 16:41:06 ERROR RESPONSE: {
+    "error": {
+        "message": "(#131008) Required parameter is missing",
+        "type": "OAuthException",
+        "code": 131008,
+        "error_data": {
+            "messaging_product": "whatsapp",
+            "details": "buttons: Button at index 0 of type copy_code requires a non-empty parameter coupon_code"
+        },
+        "fbtrace_id": "A_EnNsR5hI81zoXMPUdwimc"
+    }
+}
+--- 2026-02-04 17:28:52 SENDING TO 526122002449 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "526122002449",
+    "type": "template",
+    "template": {
+        "name": "promociones_meses",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1770251324_icon.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "Brandon Von"
+                    },
+                    {
+                        "type": "text",
+                        "text": "aaaaa"
+                    },
+                    {
+                        "type": "text",
+                        "text": "aaaa"
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+2026-02-04 17:28:52 ERROR RESPONSE: {
+    "error": {
+        "message": "(#131008) Required parameter is missing",
+        "type": "OAuthException",
+        "code": 131008,
+        "error_data": {
+            "messaging_product": "whatsapp",
+            "details": "buttons: Button at index 0 of type copy_code requires a non-empty parameter coupon_code"
+        },
+        "fbtrace_id": "AaAXZNTT0YQfjN-F4nEq8SV"
+    }
+}
+--- 2026-02-05 09:52:49 SENDING TO 526122002449 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "526122002449",
+    "type": "template",
+    "template": {
+        "name": "promociones_meses",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1770310347_icon.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "Brandon Von"
+                    },
+                    {
+                        "type": "text",
+                        "text": "q1q"
+                    },
+                    {
+                        "type": "text",
+                        "text": "1122wwww"
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+2026-02-05 09:52:50 ERROR RESPONSE: {
+    "error": {
+        "message": "(#131008) Required parameter is missing",
+        "type": "OAuthException",
+        "code": 131008,
+        "error_data": {
+            "messaging_product": "whatsapp",
+            "details": "buttons: Button at index 0 of type copy_code requires a non-empty parameter coupon_code"
+        },
+        "fbtrace_id": "A3oL-24YytZUvjNostJ83am"
+    }
+}
+--- 2026-02-05 10:24:25 SENDING TO 526122002449 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "526122002449",
+    "type": "template",
+    "template": {
+        "name": "promociones_meses",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1770312254_icon.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "Brandon Von"
+                    },
+                    {
+                        "type": "text",
+                        "text": "aaaa"
+                    },
+                    {
+                        "type": "text",
+                        "text": "aaaa"
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+2026-02-05 10:24:25 ERROR: {
+    "error": {
+        "message": "(#131008) Required parameter is missing",
+        "type": "OAuthException",
+        "code": 131008,
+        "error_data": {
+            "messaging_product": "whatsapp",
+            "details": "buttons: Button at index 0 of type copy_code requires a non-empty parameter coupon_code"
+        },
+        "fbtrace_id": "AOkkZeKdPuOynAwiYrovF1Q"
+    }
+}
+--- 2026-02-05 15:52:26 SENDING TO 526122002449 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "526122002449",
+    "type": "template",
+    "template": {
+        "name": "promociones_meses",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1770331933_icon.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "Brandon Von"
+                    },
+                    {
+                        "type": "text",
+                        "text": "aaa"
+                    },
+                    {
+                        "type": "text",
+                        "text": "aaa"
+                    }
+                ]
+            },
+            {
+                "type": "button",
+                "sub_type": "COPY_CODE",
+                "index": 0,
+                "parameters": [
+                    {
+                        "type": "coupon_code",
+                        "coupon_code": "COMPUBOT"
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-02-05 16:13:10 SENDING TO 526122002449 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "526122002449",
+    "type": "template",
+    "template": {
+        "name": "promociones_meses",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1770333127_COMPUBOT3.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "Brandon Von"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Febrero"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Todo el mes de Febrero"
+                    }
+                ]
+            },
+            {
+                "type": "button",
+                "sub_type": "COPY_CODE",
+                "index": 0,
+                "parameters": [
+                    {
+                        "type": "coupon_code",
+                        "coupon_code": "COMPUBOT"
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-02-05 16:13:10 SENDING TO 526121515584 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "526121515584",
+    "type": "template",
+    "template": {
+        "name": "promociones_meses",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1770333127_COMPUBOT3.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "johan"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Febrero"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Todo el mes de Febrero"
+                    }
+                ]
+            },
+            {
+                "type": "button",
+                "sub_type": "COPY_CODE",
+                "index": 0,
+                "parameters": [
+                    {
+                        "type": "coupon_code",
+                        "coupon_code": "COMPUBOT"
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-02-05 16:13:11 SENDING TO 526122506311 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "526122506311",
+    "type": "template",
+    "template": {
+        "name": "promociones_meses",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1770333127_COMPUBOT3.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "yair"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Febrero"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Todo el mes de Febrero"
+                    }
+                ]
+            },
+            {
+                "type": "button",
+                "sub_type": "COPY_CODE",
+                "index": 0,
+                "parameters": [
+                    {
+                        "type": "coupon_code",
+                        "coupon_code": "COMPUBOT"
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-02-05 16:13:12 SENDING TO 526121075204 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "526121075204",
+    "type": "template",
+    "template": {
+        "name": "promociones_meses",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1770333127_COMPUBOT3.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "gonzalo"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Febrero"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Todo el mes de Febrero"
+                    }
+                ]
+            },
+            {
+                "type": "button",
+                "sub_type": "COPY_CODE",
+                "index": 0,
+                "parameters": [
+                    {
+                        "type": "coupon_code",
+                        "coupon_code": "COMPUBOT"
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-02-05 16:13:12 SENDING TO 526121370254 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "526121370254",
+    "type": "template",
+    "template": {
+        "name": "promociones_meses",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1770333127_COMPUBOT3.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "julio"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Febrero"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Todo el mes de Febrero"
+                    }
+                ]
+            },
+            {
+                "type": "button",
+                "sub_type": "COPY_CODE",
+                "index": 0,
+                "parameters": [
+                    {
+                        "type": "coupon_code",
+                        "coupon_code": "COMPUBOT"
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-02-05 16:13:13 SENDING TO 526121401084 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "526121401084",
+    "type": "template",
+    "template": {
+        "name": "promociones_meses",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1770333127_COMPUBOT3.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "Jose Mercado"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Febrero"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Todo el mes de Febrero"
+                    }
+                ]
+            },
+            {
+                "type": "button",
+                "sub_type": "COPY_CODE",
+                "index": 0,
+                "parameters": [
+                    {
+                        "type": "coupon_code",
+                        "coupon_code": "COMPUBOT"
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-02-11 15:59:37 SENDING TO 526123485336 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "526123485336",
+    "type": "template",
+    "template": {
+        "name": "facturas_enlace",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "ASA"
+                    },
+                    {
+                        "type": "text",
+                        "text": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1770850777_ASA9204154N8FF0000006863.zip ."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-02-16 13:51:56 SENDING TO 526121417997 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "526121417997",
+    "type": "template",
+    "template": {
+        "name": "facturas_cs_v2",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "document",
+                        "document": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1771275116_GAJC820524LM5FMF0000000488.pdf",
+                            "filename": "GAJC820524LM5FMF0000000488.pdf"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "Carlos Garcia"
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-02-16 13:52:23 SENDING TO 526121417997 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "526121417997",
+    "type": "template",
+    "template": {
+        "name": "facturas_cs",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "document",
+                        "document": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1771275143_GAJC820524LM5FMF0000000488.pdf",
+                            "filename": "GAJC820524LM5FMF0000000488.pdf"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "Carlos Garcia"
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-02-16 13:52:49 SENDING TO 526122002449 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "526122002449",
+    "type": "template",
+    "template": {
+        "name": "facturas_cs_v2",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "document",
+                        "document": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1771275169_GAJC820524LM5FMF0000000488.pdf",
+                            "filename": "GAJC820524LM5FMF0000000488.pdf"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "Brandon Von"
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-02-16 13:54:04 SENDING TO 526122002449 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "526122002449",
+    "type": "template",
+    "template": {
+        "name": "facturas_cs",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "document",
+                        "document": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1771275244_GAJC820524LM5FMF0000000488.pdf",
+                            "filename": "GAJC820524LM5FMF0000000488.pdf"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "Brandon Von"
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-02-18 11:15:26 SENDING TO 526122002449 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "526122002449",
+    "type": "template",
+    "template": {
+        "name": "facturas_cs_v2",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "document",
+                        "document": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1771438526_Jose_Mercado_Opinion_Positiva_al_11-02-2026.pdf",
+                            "filename": "Jose_Mercado_Opinion_Positiva_al_11-02-2026.pdf"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "Brandon Von"
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-02-18 11:42:03 SENDING TO 526122002449 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "526122002449",
+    "type": "template",
+    "template": {
+        "name": "facturas_cs",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "document",
+                        "document": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1771440123_COTIZACIONCSP000146INGENIERIAINDUSTRIALDELAGUACOT_JM.pdf",
+                            "filename": "COTIZACIONCSP000146INGENIERIAINDUSTRIALDELAGUACOT_JM.pdf"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "{{CLIENT_NAME_PLACEHOLDER}}"
+                    },
+                    {
+                        "type": "text",
+                        "text": " "
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-02-18 11:46:35 SENDING TO 526122002449 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "526122002449",
+    "type": "template",
+    "template": {
+        "name": "promociones_meses",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1771440368_0FB01AA1-6011-4D69-B1A2-C5559B249E63.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "Brandon Von"
+                    },
+                    {
+                        "type": "text",
+                        "text": "febrero"
+                    },
+                    {
+                        "type": "text",
+                        "text": "todo el mes"
+                    }
+                ]
+            },
+            {
+                "type": "button",
+                "sub_type": "COPY_CODE",
+                "index": 0,
+                "parameters": [
+                    {
+                        "type": "coupon_code",
+                        "coupon_code": "compac"
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-02-18 11:49:18 SENDING TO 526122002449 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "526122002449",
+    "type": "template",
+    "template": {
+        "name": "promociones_meses",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1771440539_0FB01AA1-6011-4D69-B1A2-C5559B249E63.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "Brandon Von"
+                    },
+                    {
+                        "type": "text",
+                        "text": "aaaa"
+                    },
+                    {
+                        "type": "text",
+                        "text": "aaa"
+                    }
+                ]
+            },
+            {
+                "type": "button",
+                "sub_type": "COPY_CODE",
+                "index": 0,
+                "parameters": [
+                    {
+                        "type": "coupon_code",
+                        "coupon_code": "compac"
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-02-18 11:58:09 SENDING TO 526122002449 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "526122002449",
+    "type": "template",
+    "template": {
+        "name": "promociones_meses",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1771441070_0FB01AA1-6011-4D69-B1A2-C5559B249E63.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "Brandon Von"
+                    },
+                    {
+                        "type": "text",
+                        "text": "aaaaa"
+                    },
+                    {
+                        "type": "text",
+                        "text": "aaaaa"
+                    }
+                ]
+            },
+            {
+                "type": "button",
+                "sub_type": "COPY_CODE",
+                "index": 0,
+                "parameters": [
+                    {
+                        "type": "coupon_code",
+                        "coupon_code": "COMPAC"
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-02-18 12:00:01 SENDING TO 526122002449 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "526122002449",
+    "type": "template",
+    "template": {
+        "name": "promociones_meses",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1771441186_Contpaq2.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "Brandon Von"
+                    },
+                    {
+                        "type": "text",
+                        "text": "aaaaa"
+                    },
+                    {
+                        "type": "text",
+                        "text": "aaaaqa"
+                    }
+                ]
+            },
+            {
+                "type": "button",
+                "sub_type": "COPY_CODE",
+                "index": 0,
+                "parameters": [
+                    {
+                        "type": "coupon_code",
+                        "coupon_code": "COMPAC"
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-02-18 12:04:22 SENDING TO 526122002449 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "526122002449",
+    "type": "template",
+    "template": {
+        "name": "facturas_cs_v2",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "document",
+                        "document": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1771441462_Cotizacion-19304.pdf",
+                            "filename": "Cotizacion-19304.pdf"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "Brandon Von"
+                    },
+                    {
+                        "type": "text",
+                        "text": " "
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-02-18 12:18:25 SENDING TO 526122002449 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "526122002449",
+    "type": "template",
+    "template": {
+        "name": "facturas_cs",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "document",
+                        "document": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1771442305_Cotizacion-19304.pdf",
+                            "filename": "Cotizacion-19304.pdf"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "Brandon Von"
+                    },
+                    {
+                        "type": "text",
+                        "text": "tus facturas"
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-02-18 12:19:14 SENDING TO 526122002449 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "526122002449",
+    "type": "template",
+    "template": {
+        "name": "facturas_enlace",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "Brandon Von"
+                    },
+                    {
+                        "type": "text",
+                        "text": " "
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-02-18 12:28:10 SENDING TO 526122002449 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "526122002449",
+    "type": "template",
+    "template": {
+        "name": "facturas_enlace",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "Brandon Von"
+                    },
+                    {
+                        "type": "text",
+                        "text": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1771442890_ASA9204154N8FF0000006863.zip ."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-02-18 12:31:14 SENDING TO 526122002449 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "526122002449",
+    "type": "template",
+    "template": {
+        "name": "facturas_cs_v2",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "document",
+                        "document": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1771443074_COTIZACIONWSM000127PATRONATODELAESCUELAPREPARATORIAJOSEMARIAMORELOSYPACOT_MI.pdf",
+                            "filename": "COTIZACIONWSM000127PATRONATODELAESCUELAPREPARATORIAJOSEMARIAMORELOSYPACOT_MI.pdf"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "Brandon Von"
+                    },
+                    {
+                        "type": "text",
+                        "text": "tus facturas"
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-02-19 08:58:42 SENDING TO 526122002449 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "526122002449",
+    "type": "template",
+    "template": {
+        "name": "act_compac",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1771516659_0FB01AA1-6011-4D69-B1A2-C5559B249E63.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "Brandon Von"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Contabilidad 19.0.1"
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-02-19 08:58:43 SENDING TO 526121401084 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "526121401084",
+    "type": "template",
+    "template": {
+        "name": "act_compac",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1771516659_0FB01AA1-6011-4D69-B1A2-C5559B249E63.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "Jose Mercado"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Contabilidad 19.0.1"
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-02-19 16:39:32 SENDING TO 526121596810 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "526121596810",
+    "type": "template",
+    "template": {
+        "name": "facturas_enlace",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "Diana"
+                    },
+                    {
+                        "type": "text",
+                        "text": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1771544372_ASI1605039M6PF0000002780.zip ."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-02-20 13:07:12 SENDING TO 526121832805 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "526121832805",
+    "type": "template",
+    "template": {
+        "name": "facturas_enlace",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "Peggy"
+                    },
+                    {
+                        "type": "text",
+                        "text": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1771618032_EDO_ECOVERDE.zip ."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-03-02 10:58:41 SENDING TO 526121590098 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "526121590098",
+    "type": "template",
+    "template": {
+        "name": "facturas_cs_v2",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "document",
+                        "document": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1772474321_SAMF670710PE3FF0000006889.pdf",
+                            "filename": "SAMF670710PE3FF0000006889.pdf"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "Francisco Sanchez"
+                    },
+                    {
+                        "type": "text",
+                        "text": "tu factura"
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-03-04 11:57:02 SENDING TO 526122002449 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "526122002449",
+    "type": "template",
+    "template": {
+        "name": "facturas_enlace",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "Brandon Von"
+                    },
+                    {
+                        "type": "text",
+                        "text": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1772650622_EDO_MARZO.zip ."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-03-04 11:58:08 SENDING TO 526122002449 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "526122002449",
+    "type": "template",
+    "template": {
+        "name": "envio_estados_cs",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "Brandon Von"
+                    },
+                    {
+                        "type": "text",
+                        "text": " "
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-03-04 12:00:16 SENDING TO 526121835403 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "526121835403",
+    "type": "template",
+    "template": {
+        "name": "facturas_enlace",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "Alejandra"
+                    },
+                    {
+                        "type": "text",
+                        "text": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1772650816_EDO_MARZO.zip ."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-03-09 13:09:23 SENDING TO 526123510169 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "526123510169",
+    "type": "template",
+    "template": {
+        "name": "facturas_cs_v2",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "document",
+                        "document": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1773086963_BAC190215RU4FF0000006900.pdf",
+                            "filename": "BAC190215RU4FF0000006900.pdf"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "Administracion Bats"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Tu factura"
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-03-09 13:57:28 SENDING TO 5216241750961 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "5216241750961",
+    "type": "template",
+    "template": {
+        "name": "facturas_cs_v2",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "document",
+                        "document": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1773089848_IIA171127213FF0000006908.pdf",
+                            "filename": "IIA171127213FF0000006908.pdf"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "Jose Luis Serrano"
+                    },
+                    {
+                        "type": "text",
+                        "text": "tu factura"
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-03-13 16:35:59 SENDING TO 526241324195 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "526241324195",
+    "type": "template",
+    "template": {
+        "name": "facturas_cs_v2",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "document",
+                        "document": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1773444959_MEZF860728TJAFMF0000000512.pdf",
+                            "filename": "MEZF860728TJAFMF0000000512.pdf"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "Francisco Mercado"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Tu factura"
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-03-19 15:13:40 SENDING TO 526131051826 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "526131051826",
+    "type": "template",
+    "template": {
+        "name": "facturas_enlace",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "Yamilet"
+                    },
+                    {
+                        "type": "text",
+                        "text": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1773958420_EDO_COMPUSERVICIOSBCS.zip ."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-03-19 15:14:15 SENDING TO 526122002449 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "526122002449",
+    "type": "template",
+    "template": {
+        "name": "facturas_enlace",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "Brandon Von"
+                    },
+                    {
+                        "type": "text",
+                        "text": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1773958455_EDO_COMPUSERVICIOSBCS.zip ."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-04-08 13:42:21 SENDING TO 526122002449 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "526122002449",
+    "type": "template",
+    "template": {
+        "name": "eventos",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1775677292_23abril2026CONTPAQiVENDE.jpeg"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "Brandon Von"
+                    },
+                    {
+                        "type": "text",
+                        "text": "ANTICIPA - La evoluci\u00f3n de la gesti\u00f3n contable para despachos modernos (Miercoles 29 de abril 2026)."
+                    },
+                    {
+                        "type": "text",
+                        "text": "OPTIMIZA - Disminuye riesgos fiscales (Martes 28 de abril 2026)"
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-04-09 17:08:04 SENDING TO 526122002449 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "526122002449",
+    "type": "template",
+    "template": {
+        "name": "eventos",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1775775952_COMPUBOTWEBINAR.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "Brandon Von"
+                    },
+                    {
+                        "type": "text",
+                        "text": "ANTICIPA - La evoluci\u00f3n de la gesti\u00f3n contable para despachos modernos (Miercoles 29 de abril 2026)."
+                    },
+                    {
+                        "type": "text",
+                        "text": "OPTIMIZA - Disminuye riesgos fiscales (Martes 28 de abril 2026)."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-04-09 17:08:04 SENDING TO 526121401084 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "526121401084",
+    "type": "template",
+    "template": {
+        "name": "eventos",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1775775952_COMPUBOTWEBINAR.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "Jose Mercado"
+                    },
+                    {
+                        "type": "text",
+                        "text": "ANTICIPA - La evoluci\u00f3n de la gesti\u00f3n contable para despachos modernos (Miercoles 29 de abril 2026)."
+                    },
+                    {
+                        "type": "text",
+                        "text": "OPTIMIZA - Disminuye riesgos fiscales (Martes 28 de abril 2026)."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-04-13 16:25:13 SENDING TO 612 139 3125 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "612 139 3125",
+    "type": "template",
+    "template": {
+        "name": "eventos",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1776119021_COMPUBOTWEBINAR.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "DAVID ROSAS"
+                    },
+                    {
+                        "type": "text",
+                        "text": "ANTICIPA - La evoluci\u00f3n de la gesti\u00f3n contable para despachos modernos (Miercoles 29 de abril 2026)."
+                    },
+                    {
+                        "type": "text",
+                        "text": "OPTIMIZA - Disminuye riesgos fiscales (Martes 28 de abril 2026)."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-04-13 16:25:14 SENDING TO  612 140 4863 ---
+{
+    "messaging_product": "whatsapp",
+    "to": " 612 140 4863",
+    "type": "template",
+    "template": {
+        "name": "eventos",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1776119021_COMPUBOTWEBINAR.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "MIRIAM"
+                    },
+                    {
+                        "type": "text",
+                        "text": "ANTICIPA - La evoluci\u00f3n de la gesti\u00f3n contable para despachos modernos (Miercoles 29 de abril 2026)."
+                    },
+                    {
+                        "type": "text",
+                        "text": "OPTIMIZA - Disminuye riesgos fiscales (Martes 28 de abril 2026)."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-04-13 16:25:15 SENDING TO 612 157 8299 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "612 157 8299",
+    "type": "template",
+    "template": {
+        "name": "eventos",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1776119021_COMPUBOTWEBINAR.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "ROSA MARIA"
+                    },
+                    {
+                        "type": "text",
+                        "text": "ANTICIPA - La evoluci\u00f3n de la gesti\u00f3n contable para despachos modernos (Miercoles 29 de abril 2026)."
+                    },
+                    {
+                        "type": "text",
+                        "text": "OPTIMIZA - Disminuye riesgos fiscales (Martes 28 de abril 2026)."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-04-13 16:25:15 SENDING TO 612 176 7859 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "612 176 7859",
+    "type": "template",
+    "template": {
+        "name": "eventos",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1776119021_COMPUBOTWEBINAR.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "MARIA"
+                    },
+                    {
+                        "type": "text",
+                        "text": "ANTICIPA - La evoluci\u00f3n de la gesti\u00f3n contable para despachos modernos (Miercoles 29 de abril 2026)."
+                    },
+                    {
+                        "type": "text",
+                        "text": "OPTIMIZA - Disminuye riesgos fiscales (Martes 28 de abril 2026)."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-04-13 16:25:16 SENDING TO 612 153 0248 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "612 153 0248",
+    "type": "template",
+    "template": {
+        "name": "eventos",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1776119021_COMPUBOTWEBINAR.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "LEONOR"
+                    },
+                    {
+                        "type": "text",
+                        "text": "ANTICIPA - La evoluci\u00f3n de la gesti\u00f3n contable para despachos modernos (Miercoles 29 de abril 2026)."
+                    },
+                    {
+                        "type": "text",
+                        "text": "OPTIMIZA - Disminuye riesgos fiscales (Martes 28 de abril 2026)."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-04-13 16:25:16 SENDING TO 612 158 7064 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "612 158 7064",
+    "type": "template",
+    "template": {
+        "name": "eventos",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1776119021_COMPUBOTWEBINAR.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "DANIEL VEGA"
+                    },
+                    {
+                        "type": "text",
+                        "text": "ANTICIPA - La evoluci\u00f3n de la gesti\u00f3n contable para despachos modernos (Miercoles 29 de abril 2026)."
+                    },
+                    {
+                        "type": "text",
+                        "text": "OPTIMIZA - Disminuye riesgos fiscales (Martes 28 de abril 2026)."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-04-13 16:25:17 SENDING TO 612 108 7375 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "612 108 7375",
+    "type": "template",
+    "template": {
+        "name": "eventos",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1776119021_COMPUBOTWEBINAR.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "PEDRO MEDINA"
+                    },
+                    {
+                        "type": "text",
+                        "text": "ANTICIPA - La evoluci\u00f3n de la gesti\u00f3n contable para despachos modernos (Miercoles 29 de abril 2026)."
+                    },
+                    {
+                        "type": "text",
+                        "text": "OPTIMIZA - Disminuye riesgos fiscales (Martes 28 de abril 2026)."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-04-13 16:25:18 SENDING TO 612 140 8008 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "612 140 8008",
+    "type": "template",
+    "template": {
+        "name": "eventos",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1776119021_COMPUBOTWEBINAR.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "JANNET"
+                    },
+                    {
+                        "type": "text",
+                        "text": "ANTICIPA - La evoluci\u00f3n de la gesti\u00f3n contable para despachos modernos (Miercoles 29 de abril 2026)."
+                    },
+                    {
+                        "type": "text",
+                        "text": "OPTIMIZA - Disminuye riesgos fiscales (Martes 28 de abril 2026)."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-04-13 16:25:18 SENDING TO 612 348 8928 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "612 348 8928",
+    "type": "template",
+    "template": {
+        "name": "eventos",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1776119021_COMPUBOTWEBINAR.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "FERNANDO"
+                    },
+                    {
+                        "type": "text",
+                        "text": "ANTICIPA - La evoluci\u00f3n de la gesti\u00f3n contable para despachos modernos (Miercoles 29 de abril 2026)."
+                    },
+                    {
+                        "type": "text",
+                        "text": "OPTIMIZA - Disminuye riesgos fiscales (Martes 28 de abril 2026)."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-04-13 16:25:19 SENDING TO 612 217 1871 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "612 217 1871",
+    "type": "template",
+    "template": {
+        "name": "eventos",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1776119021_COMPUBOTWEBINAR.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "ANA LEAL"
+                    },
+                    {
+                        "type": "text",
+                        "text": "ANTICIPA - La evoluci\u00f3n de la gesti\u00f3n contable para despachos modernos (Miercoles 29 de abril 2026)."
+                    },
+                    {
+                        "type": "text",
+                        "text": "OPTIMIZA - Disminuye riesgos fiscales (Martes 28 de abril 2026)."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-04-13 16:25:19 SENDING TO 612 203 5088 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "612 203 5088",
+    "type": "template",
+    "template": {
+        "name": "eventos",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1776119021_COMPUBOTWEBINAR.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "JUANITA"
+                    },
+                    {
+                        "type": "text",
+                        "text": "ANTICIPA - La evoluci\u00f3n de la gesti\u00f3n contable para despachos modernos (Miercoles 29 de abril 2026)."
+                    },
+                    {
+                        "type": "text",
+                        "text": "OPTIMIZA - Disminuye riesgos fiscales (Martes 28 de abril 2026)."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-04-13 16:25:20 SENDING TO 55 5059 1149 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "55 5059 1149",
+    "type": "template",
+    "template": {
+        "name": "eventos",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1776119021_COMPUBOTWEBINAR.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "BRENDA"
+                    },
+                    {
+                        "type": "text",
+                        "text": "ANTICIPA - La evoluci\u00f3n de la gesti\u00f3n contable para despachos modernos (Miercoles 29 de abril 2026)."
+                    },
+                    {
+                        "type": "text",
+                        "text": "OPTIMIZA - Disminuye riesgos fiscales (Martes 28 de abril 2026)."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-04-13 16:25:20 SENDING TO  612 140 2298 ---
+{
+    "messaging_product": "whatsapp",
+    "to": " 612 140 2298",
+    "type": "template",
+    "template": {
+        "name": "eventos",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1776119021_COMPUBOTWEBINAR.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "SANDRA"
+                    },
+                    {
+                        "type": "text",
+                        "text": "ANTICIPA - La evoluci\u00f3n de la gesti\u00f3n contable para despachos modernos (Miercoles 29 de abril 2026)."
+                    },
+                    {
+                        "type": "text",
+                        "text": "OPTIMIZA - Disminuye riesgos fiscales (Martes 28 de abril 2026)."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-04-13 16:25:21 SENDING TO 612 156 6553 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "612 156 6553",
+    "type": "template",
+    "template": {
+        "name": "eventos",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1776119021_COMPUBOTWEBINAR.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "ADAN"
+                    },
+                    {
+                        "type": "text",
+                        "text": "ANTICIPA - La evoluci\u00f3n de la gesti\u00f3n contable para despachos modernos (Miercoles 29 de abril 2026)."
+                    },
+                    {
+                        "type": "text",
+                        "text": "OPTIMIZA - Disminuye riesgos fiscales (Martes 28 de abril 2026)."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-04-13 16:25:21 SENDING TO 662 937 4763 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "662 937 4763",
+    "type": "template",
+    "template": {
+        "name": "eventos",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1776119021_COMPUBOTWEBINAR.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "ISAAC"
+                    },
+                    {
+                        "type": "text",
+                        "text": "ANTICIPA - La evoluci\u00f3n de la gesti\u00f3n contable para despachos modernos (Miercoles 29 de abril 2026)."
+                    },
+                    {
+                        "type": "text",
+                        "text": "OPTIMIZA - Disminuye riesgos fiscales (Martes 28 de abril 2026)."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-04-13 16:25:22 SENDING TO 612 119 0167 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "612 119 0167",
+    "type": "template",
+    "template": {
+        "name": "eventos",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1776119021_COMPUBOTWEBINAR.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "MAYRA"
+                    },
+                    {
+                        "type": "text",
+                        "text": "ANTICIPA - La evoluci\u00f3n de la gesti\u00f3n contable para despachos modernos (Miercoles 29 de abril 2026)."
+                    },
+                    {
+                        "type": "text",
+                        "text": "OPTIMIZA - Disminuye riesgos fiscales (Martes 28 de abril 2026)."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-04-13 16:25:22 SENDING TO 612 120 2669 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "612 120 2669",
+    "type": "template",
+    "template": {
+        "name": "eventos",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1776119021_COMPUBOTWEBINAR.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "JUAN"
+                    },
+                    {
+                        "type": "text",
+                        "text": "ANTICIPA - La evoluci\u00f3n de la gesti\u00f3n contable para despachos modernos (Miercoles 29 de abril 2026)."
+                    },
+                    {
+                        "type": "text",
+                        "text": "OPTIMIZA - Disminuye riesgos fiscales (Martes 28 de abril 2026)."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-04-13 16:25:23 SENDING TO 612 153 3785 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "612 153 3785",
+    "type": "template",
+    "template": {
+        "name": "eventos",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1776119021_COMPUBOTWEBINAR.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "MARIA"
+                    },
+                    {
+                        "type": "text",
+                        "text": "ANTICIPA - La evoluci\u00f3n de la gesti\u00f3n contable para despachos modernos (Miercoles 29 de abril 2026)."
+                    },
+                    {
+                        "type": "text",
+                        "text": "OPTIMIZA - Disminuye riesgos fiscales (Martes 28 de abril 2026)."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-04-13 16:25:23 SENDING TO 612 127 0684 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "612 127 0684",
+    "type": "template",
+    "template": {
+        "name": "eventos",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1776119021_COMPUBOTWEBINAR.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "ERIKA"
+                    },
+                    {
+                        "type": "text",
+                        "text": "ANTICIPA - La evoluci\u00f3n de la gesti\u00f3n contable para despachos modernos (Miercoles 29 de abril 2026)."
+                    },
+                    {
+                        "type": "text",
+                        "text": "OPTIMIZA - Disminuye riesgos fiscales (Martes 28 de abril 2026)."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-04-13 16:25:24 SENDING TO 612 141 8713 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "612 141 8713",
+    "type": "template",
+    "template": {
+        "name": "eventos",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1776119021_COMPUBOTWEBINAR.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "CARLOS"
+                    },
+                    {
+                        "type": "text",
+                        "text": "ANTICIPA - La evoluci\u00f3n de la gesti\u00f3n contable para despachos modernos (Miercoles 29 de abril 2026)."
+                    },
+                    {
+                        "type": "text",
+                        "text": "OPTIMIZA - Disminuye riesgos fiscales (Martes 28 de abril 2026)."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-04-13 16:25:24 SENDING TO 612 348 9148 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "612 348 9148",
+    "type": "template",
+    "template": {
+        "name": "eventos",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1776119021_COMPUBOTWEBINAR.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "LUIS DANIEL"
+                    },
+                    {
+                        "type": "text",
+                        "text": "ANTICIPA - La evoluci\u00f3n de la gesti\u00f3n contable para despachos modernos (Miercoles 29 de abril 2026)."
+                    },
+                    {
+                        "type": "text",
+                        "text": "OPTIMIZA - Disminuye riesgos fiscales (Martes 28 de abril 2026)."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-04-13 16:25:25 SENDING TO 612 197 1567 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "612 197 1567",
+    "type": "template",
+    "template": {
+        "name": "eventos",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1776119021_COMPUBOTWEBINAR.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "JOSSEFINA"
+                    },
+                    {
+                        "type": "text",
+                        "text": "ANTICIPA - La evoluci\u00f3n de la gesti\u00f3n contable para despachos modernos (Miercoles 29 de abril 2026)."
+                    },
+                    {
+                        "type": "text",
+                        "text": "OPTIMIZA - Disminuye riesgos fiscales (Martes 28 de abril 2026)."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-04-13 16:25:26 SENDING TO 612 348 9407 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "612 348 9407",
+    "type": "template",
+    "template": {
+        "name": "eventos",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1776119021_COMPUBOTWEBINAR.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "OBELIA"
+                    },
+                    {
+                        "type": "text",
+                        "text": "ANTICIPA - La evoluci\u00f3n de la gesti\u00f3n contable para despachos modernos (Miercoles 29 de abril 2026)."
+                    },
+                    {
+                        "type": "text",
+                        "text": "OPTIMIZA - Disminuye riesgos fiscales (Martes 28 de abril 2026)."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-04-13 16:25:26 SENDING TO 612 137 8290 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "612 137 8290",
+    "type": "template",
+    "template": {
+        "name": "eventos",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1776119021_COMPUBOTWEBINAR.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "JCZ"
+                    },
+                    {
+                        "type": "text",
+                        "text": "ANTICIPA - La evoluci\u00f3n de la gesti\u00f3n contable para despachos modernos (Miercoles 29 de abril 2026)."
+                    },
+                    {
+                        "type": "text",
+                        "text": "OPTIMIZA - Disminuye riesgos fiscales (Martes 28 de abril 2026)."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-04-13 16:25:27 SENDING TO 612 140 1022 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "612 140 1022",
+    "type": "template",
+    "template": {
+        "name": "eventos",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1776119021_COMPUBOTWEBINAR.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "FRANCISCO"
+                    },
+                    {
+                        "type": "text",
+                        "text": "ANTICIPA - La evoluci\u00f3n de la gesti\u00f3n contable para despachos modernos (Miercoles 29 de abril 2026)."
+                    },
+                    {
+                        "type": "text",
+                        "text": "OPTIMIZA - Disminuye riesgos fiscales (Martes 28 de abril 2026)."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-04-13 16:25:27 SENDING TO 612 157 7393 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "612 157 7393",
+    "type": "template",
+    "template": {
+        "name": "eventos",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1776119021_COMPUBOTWEBINAR.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "LEONARDO"
+                    },
+                    {
+                        "type": "text",
+                        "text": "ANTICIPA - La evoluci\u00f3n de la gesti\u00f3n contable para despachos modernos (Miercoles 29 de abril 2026)."
+                    },
+                    {
+                        "type": "text",
+                        "text": "OPTIMIZA - Disminuye riesgos fiscales (Martes 28 de abril 2026)."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-04-13 16:25:28 SENDING TO 612 120 3509 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "612 120 3509",
+    "type": "template",
+    "template": {
+        "name": "eventos",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1776119021_COMPUBOTWEBINAR.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "MAURICIO"
+                    },
+                    {
+                        "type": "text",
+                        "text": "ANTICIPA - La evoluci\u00f3n de la gesti\u00f3n contable para despachos modernos (Miercoles 29 de abril 2026)."
+                    },
+                    {
+                        "type": "text",
+                        "text": "OPTIMIZA - Disminuye riesgos fiscales (Martes 28 de abril 2026)."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-04-13 16:25:28 SENDING TO 612 149 1288 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "612 149 1288",
+    "type": "template",
+    "template": {
+        "name": "eventos",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1776119021_COMPUBOTWEBINAR.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "CESAR"
+                    },
+                    {
+                        "type": "text",
+                        "text": "ANTICIPA - La evoluci\u00f3n de la gesti\u00f3n contable para despachos modernos (Miercoles 29 de abril 2026)."
+                    },
+                    {
+                        "type": "text",
+                        "text": "OPTIMIZA - Disminuye riesgos fiscales (Martes 28 de abril 2026)."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-04-13 16:25:29 SENDING TO 612 137 2583 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "612 137 2583",
+    "type": "template",
+    "template": {
+        "name": "eventos",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1776119021_COMPUBOTWEBINAR.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "GUADALUPE"
+                    },
+                    {
+                        "type": "text",
+                        "text": "ANTICIPA - La evoluci\u00f3n de la gesti\u00f3n contable para despachos modernos (Miercoles 29 de abril 2026)."
+                    },
+                    {
+                        "type": "text",
+                        "text": "OPTIMIZA - Disminuye riesgos fiscales (Martes 28 de abril 2026)."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-04-13 16:25:29 SENDING TO 612 183 5023 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "612 183 5023",
+    "type": "template",
+    "template": {
+        "name": "eventos",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1776119021_COMPUBOTWEBINAR.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "ELIZABETH"
+                    },
+                    {
+                        "type": "text",
+                        "text": "ANTICIPA - La evoluci\u00f3n de la gesti\u00f3n contable para despachos modernos (Miercoles 29 de abril 2026)."
+                    },
+                    {
+                        "type": "text",
+                        "text": "OPTIMIZA - Disminuye riesgos fiscales (Martes 28 de abril 2026)."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-04-13 16:25:30 SENDING TO 615 104 5128 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "615 104 5128",
+    "type": "template",
+    "template": {
+        "name": "eventos",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1776119021_COMPUBOTWEBINAR.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "MIRNA"
+                    },
+                    {
+                        "type": "text",
+                        "text": "ANTICIPA - La evoluci\u00f3n de la gesti\u00f3n contable para despachos modernos (Miercoles 29 de abril 2026)."
+                    },
+                    {
+                        "type": "text",
+                        "text": "OPTIMIZA - Disminuye riesgos fiscales (Martes 28 de abril 2026)."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-04-13 16:25:31 SENDING TO 612 107 5358 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "612 107 5358",
+    "type": "template",
+    "template": {
+        "name": "eventos",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1776119021_COMPUBOTWEBINAR.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "ROBERTO"
+                    },
+                    {
+                        "type": "text",
+                        "text": "ANTICIPA - La evoluci\u00f3n de la gesti\u00f3n contable para despachos modernos (Miercoles 29 de abril 2026)."
+                    },
+                    {
+                        "type": "text",
+                        "text": "OPTIMIZA - Disminuye riesgos fiscales (Martes 28 de abril 2026)."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-04-13 16:25:31 SENDING TO 612 104 0610 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "612 104 0610",
+    "type": "template",
+    "template": {
+        "name": "eventos",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1776119021_COMPUBOTWEBINAR.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "KARINA"
+                    },
+                    {
+                        "type": "text",
+                        "text": "ANTICIPA - La evoluci\u00f3n de la gesti\u00f3n contable para despachos modernos (Miercoles 29 de abril 2026)."
+                    },
+                    {
+                        "type": "text",
+                        "text": "OPTIMIZA - Disminuye riesgos fiscales (Martes 28 de abril 2026)."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-04-13 16:25:32 SENDING TO 6121311063 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "6121311063",
+    "type": "template",
+    "template": {
+        "name": "eventos",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1776119021_COMPUBOTWEBINAR.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "ROSARIO"
+                    },
+                    {
+                        "type": "text",
+                        "text": "ANTICIPA - La evoluci\u00f3n de la gesti\u00f3n contable para despachos modernos (Miercoles 29 de abril 2026)."
+                    },
+                    {
+                        "type": "text",
+                        "text": "OPTIMIZA - Disminuye riesgos fiscales (Martes 28 de abril 2026)."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-04-13 16:25:32 SENDING TO 613 129 9716 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "613 129 9716",
+    "type": "template",
+    "template": {
+        "name": "eventos",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1776119021_COMPUBOTWEBINAR.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "RANGEL"
+                    },
+                    {
+                        "type": "text",
+                        "text": "ANTICIPA - La evoluci\u00f3n de la gesti\u00f3n contable para despachos modernos (Miercoles 29 de abril 2026)."
+                    },
+                    {
+                        "type": "text",
+                        "text": "OPTIMIZA - Disminuye riesgos fiscales (Martes 28 de abril 2026)."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-04-13 16:25:33 SENDING TO 612 108 8228 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "612 108 8228",
+    "type": "template",
+    "template": {
+        "name": "eventos",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1776119021_COMPUBOTWEBINAR.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "PATRICIA"
+                    },
+                    {
+                        "type": "text",
+                        "text": "ANTICIPA - La evoluci\u00f3n de la gesti\u00f3n contable para despachos modernos (Miercoles 29 de abril 2026)."
+                    },
+                    {
+                        "type": "text",
+                        "text": "OPTIMIZA - Disminuye riesgos fiscales (Martes 28 de abril 2026)."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-04-13 16:25:33 SENDING TO 612 348 0628 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "612 348 0628",
+    "type": "template",
+    "template": {
+        "name": "eventos",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1776119021_COMPUBOTWEBINAR.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "PEDRO TELLES"
+                    },
+                    {
+                        "type": "text",
+                        "text": "ANTICIPA - La evoluci\u00f3n de la gesti\u00f3n contable para despachos modernos (Miercoles 29 de abril 2026)."
+                    },
+                    {
+                        "type": "text",
+                        "text": "OPTIMIZA - Disminuye riesgos fiscales (Martes 28 de abril 2026)."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-04-13 16:25:34 SENDING TO 612 167 0383 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "612 167 0383",
+    "type": "template",
+    "template": {
+        "name": "eventos",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1776119021_COMPUBOTWEBINAR.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "ALVARO"
+                    },
+                    {
+                        "type": "text",
+                        "text": "ANTICIPA - La evoluci\u00f3n de la gesti\u00f3n contable para despachos modernos (Miercoles 29 de abril 2026)."
+                    },
+                    {
+                        "type": "text",
+                        "text": "OPTIMIZA - Disminuye riesgos fiscales (Martes 28 de abril 2026)."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-04-13 16:25:34 SENDING TO 612 102 4479 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "612 102 4479",
+    "type": "template",
+    "template": {
+        "name": "eventos",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1776119021_COMPUBOTWEBINAR.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "DARINKA"
+                    },
+                    {
+                        "type": "text",
+                        "text": "ANTICIPA - La evoluci\u00f3n de la gesti\u00f3n contable para despachos modernos (Miercoles 29 de abril 2026)."
+                    },
+                    {
+                        "type": "text",
+                        "text": "OPTIMIZA - Disminuye riesgos fiscales (Martes 28 de abril 2026)."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-04-13 16:25:35 SENDING TO 612 170 3612 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "612 170 3612",
+    "type": "template",
+    "template": {
+        "name": "eventos",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1776119021_COMPUBOTWEBINAR.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "YESSENIA"
+                    },
+                    {
+                        "type": "text",
+                        "text": "ANTICIPA - La evoluci\u00f3n de la gesti\u00f3n contable para despachos modernos (Miercoles 29 de abril 2026)."
+                    },
+                    {
+                        "type": "text",
+                        "text": "OPTIMIZA - Disminuye riesgos fiscales (Martes 28 de abril 2026)."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-04-13 16:25:35 SENDING TO 612 136 1799 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "612 136 1799",
+    "type": "template",
+    "template": {
+        "name": "eventos",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1776119021_COMPUBOTWEBINAR.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "SAMANTHA"
+                    },
+                    {
+                        "type": "text",
+                        "text": "ANTICIPA - La evoluci\u00f3n de la gesti\u00f3n contable para despachos modernos (Miercoles 29 de abril 2026)."
+                    },
+                    {
+                        "type": "text",
+                        "text": "OPTIMIZA - Disminuye riesgos fiscales (Martes 28 de abril 2026)."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-04-13 16:25:36 SENDING TO 612 288 2796 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "612 288 2796",
+    "type": "template",
+    "template": {
+        "name": "eventos",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1776119021_COMPUBOTWEBINAR.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "EZEQUIEL"
+                    },
+                    {
+                        "type": "text",
+                        "text": "ANTICIPA - La evoluci\u00f3n de la gesti\u00f3n contable para despachos modernos (Miercoles 29 de abril 2026)."
+                    },
+                    {
+                        "type": "text",
+                        "text": "OPTIMIZA - Disminuye riesgos fiscales (Martes 28 de abril 2026)."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-04-13 16:25:37 SENDING TO 612 151 2376 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "612 151 2376",
+    "type": "template",
+    "template": {
+        "name": "eventos",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1776119021_COMPUBOTWEBINAR.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "ZULEMA"
+                    },
+                    {
+                        "type": "text",
+                        "text": "ANTICIPA - La evoluci\u00f3n de la gesti\u00f3n contable para despachos modernos (Miercoles 29 de abril 2026)."
+                    },
+                    {
+                        "type": "text",
+                        "text": "OPTIMIZA - Disminuye riesgos fiscales (Martes 28 de abril 2026)."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-04-13 16:25:37 SENDING TO 612 152 7385 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "612 152 7385",
+    "type": "template",
+    "template": {
+        "name": "eventos",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1776119021_COMPUBOTWEBINAR.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "MARI ELENA"
+                    },
+                    {
+                        "type": "text",
+                        "text": "ANTICIPA - La evoluci\u00f3n de la gesti\u00f3n contable para despachos modernos (Miercoles 29 de abril 2026)."
+                    },
+                    {
+                        "type": "text",
+                        "text": "OPTIMIZA - Disminuye riesgos fiscales (Martes 28 de abril 2026)."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-04-13 16:25:38 SENDING TO 624 175 0961 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "624 175 0961",
+    "type": "template",
+    "template": {
+        "name": "eventos",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1776119021_COMPUBOTWEBINAR.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "JOSE LUIS"
+                    },
+                    {
+                        "type": "text",
+                        "text": "ANTICIPA - La evoluci\u00f3n de la gesti\u00f3n contable para despachos modernos (Miercoles 29 de abril 2026)."
+                    },
+                    {
+                        "type": "text",
+                        "text": "OPTIMIZA - Disminuye riesgos fiscales (Martes 28 de abril 2026)."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-04-13 16:25:38 SENDING TO 612 157 8871 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "612 157 8871",
+    "type": "template",
+    "template": {
+        "name": "eventos",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1776119021_COMPUBOTWEBINAR.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "JULIA SIMENTAL"
+                    },
+                    {
+                        "type": "text",
+                        "text": "ANTICIPA - La evoluci\u00f3n de la gesti\u00f3n contable para despachos modernos (Miercoles 29 de abril 2026)."
+                    },
+                    {
+                        "type": "text",
+                        "text": "OPTIMIZA - Disminuye riesgos fiscales (Martes 28 de abril 2026)."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-04-13 16:25:39 SENDING TO 612 157 3027 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "612 157 3027",
+    "type": "template",
+    "template": {
+        "name": "eventos",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1776119021_COMPUBOTWEBINAR.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "CELINER"
+                    },
+                    {
+                        "type": "text",
+                        "text": "ANTICIPA - La evoluci\u00f3n de la gesti\u00f3n contable para despachos modernos (Miercoles 29 de abril 2026)."
+                    },
+                    {
+                        "type": "text",
+                        "text": "OPTIMIZA - Disminuye riesgos fiscales (Martes 28 de abril 2026)."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-04-13 16:25:39 SENDING TO 612 104 8220 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "612 104 8220",
+    "type": "template",
+    "template": {
+        "name": "eventos",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1776119021_COMPUBOTWEBINAR.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "JOSE ANTONIO"
+                    },
+                    {
+                        "type": "text",
+                        "text": "ANTICIPA - La evoluci\u00f3n de la gesti\u00f3n contable para despachos modernos (Miercoles 29 de abril 2026)."
+                    },
+                    {
+                        "type": "text",
+                        "text": "OPTIMIZA - Disminuye riesgos fiscales (Martes 28 de abril 2026)."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-04-13 16:25:42 SENDING TO 612 132 4620 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "612 132 4620",
+    "type": "template",
+    "template": {
+        "name": "eventos",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1776119021_COMPUBOTWEBINAR.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "PABLO GALLO"
+                    },
+                    {
+                        "type": "text",
+                        "text": "ANTICIPA - La evoluci\u00f3n de la gesti\u00f3n contable para despachos modernos (Miercoles 29 de abril 2026)."
+                    },
+                    {
+                        "type": "text",
+                        "text": "OPTIMIZA - Disminuye riesgos fiscales (Martes 28 de abril 2026)."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-04-13 16:25:43 SENDING TO 612 156 9240 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "612 156 9240",
+    "type": "template",
+    "template": {
+        "name": "eventos",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1776119021_COMPUBOTWEBINAR.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "OMAR"
+                    },
+                    {
+                        "type": "text",
+                        "text": "ANTICIPA - La evoluci\u00f3n de la gesti\u00f3n contable para despachos modernos (Miercoles 29 de abril 2026)."
+                    },
+                    {
+                        "type": "text",
+                        "text": "OPTIMIZA - Disminuye riesgos fiscales (Martes 28 de abril 2026)."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-04-13 16:25:43 SENDING TO 612 111 8794 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "612 111 8794",
+    "type": "template",
+    "template": {
+        "name": "eventos",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1776119021_COMPUBOTWEBINAR.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "ILIANA CASTRO"
+                    },
+                    {
+                        "type": "text",
+                        "text": "ANTICIPA - La evoluci\u00f3n de la gesti\u00f3n contable para despachos modernos (Miercoles 29 de abril 2026)."
+                    },
+                    {
+                        "type": "text",
+                        "text": "OPTIMIZA - Disminuye riesgos fiscales (Martes 28 de abril 2026)."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-04-13 16:25:44 SENDING TO 612 157 5479 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "612 157 5479",
+    "type": "template",
+    "template": {
+        "name": "eventos",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1776119021_COMPUBOTWEBINAR.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "ISELA TORRES"
+                    },
+                    {
+                        "type": "text",
+                        "text": "ANTICIPA - La evoluci\u00f3n de la gesti\u00f3n contable para despachos modernos (Miercoles 29 de abril 2026)."
+                    },
+                    {
+                        "type": "text",
+                        "text": "OPTIMIZA - Disminuye riesgos fiscales (Martes 28 de abril 2026)."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-04-13 16:25:44 SENDING TO 612 169 8585 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "612 169 8585",
+    "type": "template",
+    "template": {
+        "name": "eventos",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1776119021_COMPUBOTWEBINAR.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "VANESA"
+                    },
+                    {
+                        "type": "text",
+                        "text": "ANTICIPA - La evoluci\u00f3n de la gesti\u00f3n contable para despachos modernos (Miercoles 29 de abril 2026)."
+                    },
+                    {
+                        "type": "text",
+                        "text": "OPTIMIZA - Disminuye riesgos fiscales (Martes 28 de abril 2026)."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-04-13 16:25:45 SENDING TO 612 348 9566 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "612 348 9566",
+    "type": "template",
+    "template": {
+        "name": "eventos",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1776119021_COMPUBOTWEBINAR.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "LIZBETH"
+                    },
+                    {
+                        "type": "text",
+                        "text": "ANTICIPA - La evoluci\u00f3n de la gesti\u00f3n contable para despachos modernos (Miercoles 29 de abril 2026)."
+                    },
+                    {
+                        "type": "text",
+                        "text": "OPTIMIZA - Disminuye riesgos fiscales (Martes 28 de abril 2026)."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-04-13 16:25:46 SENDING TO 612 137 4250 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "612 137 4250",
+    "type": "template",
+    "template": {
+        "name": "eventos",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "image",
+                        "image": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1776119021_COMPUBOTWEBINAR.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "MARIA ROSALES"
+                    },
+                    {
+                        "type": "text",
+                        "text": "ANTICIPA - La evoluci\u00f3n de la gesti\u00f3n contable para despachos modernos (Miercoles 29 de abril 2026)."
+                    },
+                    {
+                        "type": "text",
+                        "text": "OPTIMIZA - Disminuye riesgos fiscales (Martes 28 de abril 2026)."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-04-14 14:12:06 SENDING TO 526121401084 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "526121401084",
+    "type": "template",
+    "template": {
+        "name": "facturas_enlace",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "Jose Mercado"
+                    },
+                    {
+                        "type": "text",
+                        "text": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1776197526_CFD_BXII099364.zip ."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-04-23 11:53:31 SENDING TO 526121405018 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "526121405018",
+    "type": "template",
+    "template": {
+        "name": "facturas_enlace",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "Adriana ECO verde"
+                    },
+                    {
+                        "type": "text",
+                        "text": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1776966811_FacturasDIC_ENER_CS.zip ."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-05-13 14:25:51 SENDING TO 526131098683 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "526131098683",
+    "type": "template",
+    "template": {
+        "name": "facturas_enlace",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "Sandra"
+                    },
+                    {
+                        "type": "text",
+                        "text": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1778703951_EDO_COMPUSERVICIOS_MAYO.zip ."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-05-18 14:25:10 SENDING TO 526131098683 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "526131098683",
+    "type": "template",
+    "template": {
+        "name": "facturas_enlace",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "Sandra"
+                    },
+                    {
+                        "type": "text",
+                        "text": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1779135910_FACTURAS_PENDIENTES_MARA.zip ."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-05-18 14:33:10 SENDING TO 5216131412455 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "5216131412455",
+    "type": "template",
+    "template": {
+        "name": "facturas_enlace",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "Karina"
+                    },
+                    {
+                        "type": "text",
+                        "text": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1779136390_FACTURASPENDIENTEMADS.zip ."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-05-18 14:40:39 SENDING TO 526121530248 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "526121530248",
+    "type": "template",
+    "template": {
+        "name": "facturas_cs_v2",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "document",
+                        "document": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1779136839_CFV1207129N2FMF0000000447.pdf",
+                            "filename": "CFV1207129N2FMF0000000447.pdf"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "Leonor"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Tu facturas pendiente"
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-05-18 15:06:59 SENDING TO 526121591337 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "526121591337",
+    "type": "template",
+    "template": {
+        "name": "facturas_cs_v2",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "Perla"
+                    },
+                    {
+                        "type": "text",
+                        "text": " "
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-05-18 15:07:51 SENDING TO 526121591337 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "526121591337",
+    "type": "template",
+    "template": {
+        "name": "facturas_enlace",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "Perla"
+                    },
+                    {
+                        "type": "text",
+                        "text": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1779138471_FACTURAS_CS.zip ."
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-05-18 15:52:39 SENDING TO 5216241750961 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "5216241750961",
+    "type": "template",
+    "template": {
+        "name": "facturas_cs_v2",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "document",
+                        "document": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1779141159_IIA171127213FMF0000000498.pdf",
+                            "filename": "IIA171127213FMF0000000498.pdf"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "Jose Luis Serrano"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Una factura pendiente"
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-05-18 15:53:16 SENDING TO 526122002449 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "526122002449",
+    "type": "template",
+    "template": {
+        "name": "facturas_cs_v2",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "document",
+                        "document": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1779141196_IIA171127213FMF0000000498.pdf",
+                            "filename": "IIA171127213FMF0000000498.pdf"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "Brandon Von"
+                    },
+                    {
+                        "type": "text",
+                        "text": "tu factura"
+                    }
+                ]
+            }
+        ]
+    }
+}
+
+--- 2026-05-18 15:56:29 SENDING TO 526131097571 ---
+{
+    "messaging_product": "whatsapp",
+    "to": "526131097571",
+    "type": "template",
+    "template": {
+        "name": "facturas_cs_v2",
+        "language": {
+            "code": "es_MX"
+        },
+        "components": [
+            {
+                "type": "header",
+                "parameters": [
+                    {
+                        "type": "document",
+                        "document": {
+                            "link": "https:\/\/compuserviciosbcs.com\/facturacion.wa\/uploads\/Doc_1779141389_SBS1606083Q2FMF0000000520.pdf",
+                            "filename": "SBS1606083Q2FMF0000000520.pdf"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "body",
+                "parameters": [
+                    {
+                        "type": "text",
+                        "text": "Larissa"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Una factura pendiente"
+                    }
+                ]
+            }
+        ]
+    }
+}
+

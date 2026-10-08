@@ -1,0 +1,511 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Panel Facturación - Compuservicios BCS</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <script src="https://cdn.sheetjs.com/xlsx-latest/package/dist/xlsx.full.min.js"></script>
+
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: { sans: ['Inter', 'sans-serif'] },
+                    colors: { 
+                        brand: { 50: '#f0f9ff', 100: '#e0f2fe', 500: '#0ea5e9', 600: '#0284c7', 900: '#0c4a6e' } 
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        body { -webkit-tap-highlight-color: transparent; }
+        *, *:focus, *:hover, *:active, *:visited { outline: none !important; box-shadow: none !important; -webkit-tap-highlight-color: transparent !important; outline-width: 0 !important; }
+        input:focus, textarea:focus, select:focus { border-color: #94a3b8 !important; background-color: #ffffff !important; outline: none !important; box-shadow: 0 0 0 1px #e2e8f0 !important; }
+        .custom-scroll::-webkit-scrollbar { width: 4px; }
+        .custom-scroll::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 4px; }
+        .wa-bg { background-color: #e5ddd5; background-image: url('https://user-images.githubusercontent.com/15075759/28719144-86dc0f70-73b1-11e7-911d-60d70fcded21.png'); background-blend-mode: overlay; }
+        button:disabled { opacity: 0.5; cursor: not-allowed; pointer-events: none; }
+        .fade-in { animation: fadeIn 0.3s ease-in-out; }
+        @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+    </style>
+</head>
+<body class="bg-slate-100 text-slate-800 h-screen overflow-hidden flex flex-col">
+
+    <!-- LOGIN -->
+    <div id="loginScreen" class="fixed inset-0 z-50 bg-slate-900 flex items-center justify-center p-4">
+        <div class="bg-white w-full max-w-sm p-8 rounded-3xl shadow-2xl text-center">
+            <div class="w-48 h-32 mx-auto mb-6 flex items-center justify-center bg-white p-2 rounded-xl">
+                <img src="https://compuserviciosbcs.com/facturacion.wa/imagenes/icon.png" alt="Logo Empresa" class="w-full h-full object-contain">
+            </div>
+            <h1 class="text-xl font-bold text-slate-800 mb-2">COMPUSERVICIOS BCS</h1>
+            <p class="text-xs text-slate-400 mb-8 uppercase tracking-widest font-semibold">PANEL DE envios MARKETING & FACTURACIÓN</p>
+            <form onsubmit="doLogin(event)" class="space-y-4">
+                <input type="password" id="passInput" placeholder="Contraseña" class="w-full p-4 bg-slate-50 border border-slate-200 rounded-xl text-center font-bold text-slate-700 placeholder:text-slate-300 transition-all focus:bg-white focus:border-slate-400">
+                <button type="submit" id="btnLogin" class="w-full p-4 bg-brand-600 hover:bg-brand-500 text-white rounded-xl font-bold shadow-lg transition-transform active:scale-95 focus:outline-none">INGRESAR</button>
+            </form>
+        </div>
+    </div>
+
+    <!-- APP -->
+    <div id="appLayout" class="hidden flex h-full">
+        <aside class="w-20 lg:w-64 bg-slate-900 text-white flex flex-col justify-between shrink-0 transition-all shadow-xl z-20">
+            <div>
+                <div class="h-20 flex items-center justify-center lg:justify-start lg:px-6 border-b border-slate-800 bg-slate-950">
+                    <div class="flex items-center gap-3">
+                        <div class="w-8 h-8 flex items-center justify-center overflow-hidden bg-white rounded p-1">
+                            <img src="https://compuserviciosbcs.com/facturacion.wa/imagenes/icon.png" alt="Logo" class="w-full h-full object-contain">
+                        </div>
+                        <span class="hidden lg:block font-bold text-lg tracking-tight">PANEL CS <span class="text-[9px] bg-green-500 text-slate-900 px-1.5 py-0.5 rounded ml-2 align-middle">v1.0</span></span>
+                    </div>
+                </div>
+                <nav class="p-4 space-y-2">
+                    <button onclick="nav('send')" class="nav-btn w-full p-3 rounded-xl flex items-center justify-center lg:justify-start gap-4 text-slate-400 hover:bg-white/10 hover:text-white transition-all active-nav focus:outline-none"><i class="fa-solid fa-paper-plane text-xl"></i><span class="hidden lg:block text-sm font-medium">Factura Individual</span></button>
+                    <button onclick="nav('campaign')" class="nav-btn w-full p-3 rounded-xl flex items-center justify-center lg:justify-start gap-4 text-purple-400 hover:bg-white/10 hover:text-white transition-all focus:outline-none"><i class="fa-solid fa-bullhorn text-xl"></i><span class="hidden lg:block text-sm font-medium">Campaña MKT</span></button>
+                    <button onclick="nav('history')" class="nav-btn w-full p-3 rounded-xl flex items-center justify-center lg:justify-start gap-4 text-slate-400 hover:bg-white/10 hover:text-white transition-all focus:outline-none"><i class="fa-solid fa-clock-rotate-left text-xl"></i><span class="hidden lg:block text-sm font-medium">Historial</span></button>
+                    <button onclick="nav('favs')" class="nav-btn w-full p-3 rounded-xl flex items-center justify-center lg:justify-start gap-4 text-slate-400 hover:bg-white/10 hover:text-white transition-all focus:outline-none"><i class="fa-solid fa-star text-xl"></i><span class="hidden lg:block text-sm font-medium">Favoritos</span></button>
+                    <button onclick="nav('config')" class="nav-btn w-full p-3 rounded-xl flex items-center justify-center lg:justify-start gap-4 text-slate-400 hover:bg-white/10 hover:text-white transition-all focus:outline-none"><i class="fa-solid fa-sliders text-xl"></i><span class="hidden lg:block text-sm font-medium">Ajustes</span></button>
+                </nav>
+            </div>
+            <div class="p-4 bg-slate-950"><button onclick="logout()" class="w-full p-3 rounded-xl flex items-center justify-center lg:justify-start gap-4 text-red-400 hover:bg-red-500/10 transition-all focus:outline-none"><i class="fa-solid fa-power-off"></i><span class="hidden lg:block text-sm font-medium">Salir</span></button></div>
+        </aside>
+
+        <main class="flex-1 bg-slate-100 relative overflow-hidden flex flex-col">
+            
+            <!-- VISTA 1: FACTURA INDIVIDUAL (MODIFICADO: Variables Dinámicas) -->
+            <div id="view-send" class="view-section absolute inset-0 p-6 lg:p-10 overflow-y-auto custom-scroll flex flex-col lg:flex-row gap-8">
+                <div class="flex-1 space-y-6">
+                    <header class="mb-2"><h2 class="text-2xl font-bold text-slate-800">Enviar Documento</h2><p class="text-sm text-slate-400">PDF, Archivos comprimidos ZIP.</p></header>
+                    <div class="bg-white p-6 rounded-3xl shadow-sm border border-slate-200 relative z-30">
+                        <label class="text-[10px] font-bold text-slate-400 uppercase tracking-widest mb-2 block">1. Seleccionar Cliente</label>
+                        <div class="relative group"><i class="fa-solid fa-search absolute left-4 top-4 text-slate-300"></i><input type="text" id="searchInput" placeholder="Escribe nombre o teléfono..." class="w-full pl-12 pr-4 py-3 bg-slate-50 rounded-xl border border-slate-100 text-sm font-medium transition-all focus:outline-none focus:ring-0"></div>
+                        <div id="searchResults" class="hidden absolute top-full left-0 right-0 mt-2 bg-white rounded-2xl shadow-xl border border-slate-100 max-h-60 overflow-y-auto custom-scroll p-2 z-40"></div>
+                        <div id="selectedClient" class="hidden mt-4 bg-slate-50 border border-brand-200 p-4 rounded-xl flex justify-between items-center"><div class="flex items-center gap-3"><div class="w-10 h-10 bg-brand-100 text-brand-600 rounded-full flex items-center justify-center font-bold shadow-sm"><i class="fa-solid fa-user-check"></i></div><div><p id="selName" class="font-bold text-sm text-slate-800">Nombre</p><p id="selPhone" class="text-xs text-slate-500 font-mono">000</p></div></div><button onclick="clearSelection()" class="text-[10px] bg-white border border-red-100 text-red-400 hover:text-red-600 hover:border-red-300 font-bold px-3 py-1.5 rounded-lg focus:outline-none">QUITAR</button></div>
+                    </div>
+                    <div class="bg-white p-6 rounded-3xl shadow-sm border border-slate-200">
+                        <label class="text-[10px] font-bold text-slate-400 uppercase tracking-widest mb-4 block">2. Adjuntar Archivo</label>
+                        <label class="flex flex-col items-center justify-center w-full h-36 border-2 border-dashed border-slate-200 rounded-2xl cursor-pointer hover:bg-brand-50 transition-all group relative overflow-hidden focus-within:outline-none">
+                            <div class="flex flex-col items-center justify-center pt-5 pb-6 z-10"><div id="uploadIconWrapper" class="mb-2 transition-transform group-hover:scale-110 duration-300"><i class="fa-solid fa-cloud-arrow-up text-3xl text-slate-300 group-hover:text-brand-500"></i></div><p id="fileName" class="text-sm text-slate-500 group-hover:text-slate-700 font-medium"><span class="font-bold text-brand-600">Click para subir</span> PDF, ZIP.</p></div>
+                            <input id="fileInput" type="file" class="hidden" accept=".pdf,.zip,application/pdf,application/zip,application/x-zip-compressed,image/jpeg,image/png" />
+                        </label>
+                        <div id="fileTypeBadge" class="hidden mt-4 flex justify-center fade-in"><span class="inline-flex items-center gap-2 px-3 py-1 bg-slate-100 text-slate-600 rounded-full text-[10px] font-bold uppercase tracking-wider border border-slate-200"><i id="fileTypeIconSmall" class="fa-solid fa-file"></i><span id="fileExtText">ARCHIVO</span></span></div>
+                    </div>
+                </div>
+                <div class="w-full lg:w-[400px] flex flex-col gap-6">
+                    <div class="bg-white p-6 rounded-3xl shadow-sm border border-slate-200">
+                        <label class="text-[10px] font-bold text-slate-400 uppercase tracking-widest mb-2 block">3. Plantilla</label>
+                        <div class="relative mb-4">
+                            <select id="sendTemplateSelector" onchange="onSendTemplateChange()" class="w-full p-3 bg-slate-50 rounded-xl border border-slate-100 text-sm font-bold text-brand-600 appearance-none cursor-pointer focus:outline-none"></select>
+                            <i class="fa-solid fa-chevron-down absolute right-4 top-4 text-slate-400 pointer-events-none text-xs"></i>
+                        </div>
+                        
+                        <!-- NUEVO: Contenedor Variables Factura -->
+                        <div id="sendVariablesContainer" class="space-y-2 border-t border-slate-100 pt-4 hidden">
+                            <p class="text-[9px] font-bold text-slate-400 uppercase tracking-widest mb-2">Variables del Mensaje</p>
+                            <!-- Se llena por JS -->
+                        </div>
+                    </div>
+
+                    <div class="bg-white p-6 rounded-3xl shadow-sm border border-slate-200 flex-1 flex flex-col h-full"><label class="text-[10px] font-bold text-slate-400 uppercase tracking-widest mb-4 block text-center">Vista Previa</label><div class="wa-bg rounded-xl flex-1 border border-slate-200 relative overflow-hidden flex flex-col justify-end p-5 min-h-[300px] shadow-inner"><div id="msgBubble" class="bg-white rounded-lg rounded-tl-none shadow-sm max-w-[90%] self-start opacity-40 grayscale transition-all duration-500 transform origin-left overflow-hidden"><div class="p-2.5"><div class="bg-slate-100 rounded p-2.5 flex items-center gap-3 mb-2 border border-slate-200"><div id="previewIconBg" class="w-10 h-12 bg-red-100 text-red-500 flex items-center justify-center rounded text-xl shadow-sm"><i class="fa-solid fa-file-pdf" id="previewIcon"></i></div><div class="overflow-hidden"><p class="text-[11px] font-bold text-slate-700 truncate w-32" id="previewFileName">archivo.pdf</p><p class="text-[9px] text-slate-400 font-medium uppercase" id="previewFileType">Documento</p></div></div><div class="px-1" id="msgBodyContainer"><p class="text-[13px] text-slate-800 leading-snug">Selecciona una plantilla para previsualizar...</p></div></div></div><p class="text-[9px] text-center text-slate-500 mt-2 bg-white/80 rounded px-2 py-1 mx-auto w-fit shadow-sm">Plantilla: <b id="previewTemplateName">...</b></p></div><button id="btnSend" onclick="sendInvoice()" disabled class="w-full mt-6 py-4 bg-slate-100 text-slate-400 rounded-2xl font-bold text-sm shadow-none cursor-not-allowed transition-all duration-300 flex items-center justify-center gap-2 group border border-transparent focus:outline-none"><span>FALTAN DATOS</span></button></div>
+                </div>
+            </div>
+
+            <!-- VISTA 2: CAMPAÑA MKT -->
+            <div id="view-campaign" class="view-section hidden absolute inset-0 p-6 lg:p-10 overflow-y-auto custom-scroll">
+                <header class="mb-8 flex justify-between items-center border-b border-slate-200 pb-6">
+                    <div><h2 class="text-2xl font-bold text-purple-700">Campaña de Marketing</h2><p class="text-sm text-slate-400">Interfaz para envió de anuncios y promociónes</p></div>
+                    <div class="bg-purple-50 text-purple-700 px-4 py-2 rounded-xl text-xs font-bold border border-purple-100"><i class="fa-solid fa-users-viewfinder mr-2"></i> Masivo</div>
+                </header>
+                
+                <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
+                    <div class="lg:col-span-2 space-y-6">
+                        <div class="bg-white p-6 rounded-3xl shadow-sm border border-purple-100">
+                            <label class="text-[10px] font-bold text-purple-400 uppercase tracking-widest mb-4 block">1. Formato de achivo (Solo JPG/PNG/GIF)</label>
+                            <label class="flex flex-col items-center justify-center w-full h-32 border-2 border-dashed border-purple-200 rounded-2xl cursor-pointer hover:bg-purple-50 transition-all">
+                                <div class="text-center"><i class="fa-solid fa-image text-3xl text-purple-300 mb-2"></i><p class="text-xs text-purple-500 font-bold">Subir Imagen</p></div>
+                                <input type="file" id="mktFile" class="hidden" accept="image/jpeg,image/png,image/gif" onchange="handleMktFile(this)">
+                            </label>
+                            <p id="mktFileName" class="text-xs text-center mt-2 text-slate-400 italic">Ninguna seleccionada</p>
+                        </div>
+
+                        <div class="bg-white p-6 rounded-3xl shadow-sm border border-purple-100 flex flex-col h-[500px]">
+                            <label class="text-[10px] font-bold text-purple-400 uppercase tracking-widest mb-3">2. Construir Lista</label>
+                            <div class="flex gap-2 mb-4 relative z-20">
+                                <div class="relative flex-1"><i class="fa-solid fa-user-plus absolute left-3 top-3 text-purple-300 text-xs"></i><input type="text" id="manualSearchMkt" placeholder="Buscar y agregar manual..." class="pl-8 pr-3 py-2 bg-purple-50 border border-purple-100 rounded-xl text-sm w-full focus:outline-none focus:bg-white transition-all"><div id="mktSearchResults" class="hidden absolute top-full left-0 right-0 mt-2 bg-white rounded-xl shadow-xl border border-purple-100 max-h-40 overflow-y-auto custom-scroll p-2 z-50"></div></div>
+                                <button onclick="document.getElementById('mktExcel').click()" class="px-4 bg-green-100 text-green-700 rounded-xl text-xs font-bold hover:bg-green-200 focus:outline-none whitespace-nowrap"><i class="fa-solid fa-file-excel mr-1"></i> + Excel</button><input type="file" id="mktExcel" class="hidden" accept=".xlsx" onchange="handleMktExcel(this)">
+                            </div>
+                            <div class="border border-slate-200 rounded-xl overflow-hidden flex-1 overflow-y-auto custom-scroll relative"><table class="w-full text-left text-sm"><thead class="bg-slate-50 text-slate-500 sticky top-0 z-10 shadow-sm"><tr><th class="p-3 w-10 text-center"><input type="checkbox" id="checkAllMkt" onchange="toggleAllMkt(this)" checked class="rounded text-purple-600 focus:ring-purple-500 cursor-pointer"></th><th class="p-3 font-bold">Nombre</th><th class="p-3 font-bold">Teléfono</th><th class="p-3 w-10"></th></tr></thead><tbody id="campaignTableBody" class="divide-y divide-slate-100 text-slate-700"><tr><td colspan="4" class="p-8 text-center text-slate-400 italic">Lista vacía. Agrega clientes arriba.</td></tr></tbody></table></div>
+                            <div class="flex justify-between items-center mt-3"><button onclick="clearCampaignList()" class="text-xs text-red-400 hover:text-red-600 font-bold">Limpiar Lista</button><p class="text-xs text-purple-600 font-bold" id="selectedCount">0 para enviar</p></div>
+                        </div>
+                    </div>
+                    <div class="space-y-6">
+                        <div class="bg-white p-6 rounded-3xl shadow-sm border border-slate-200">
+                            <label class="text-[10px] font-bold text-slate-400 uppercase tracking-widest mb-2 block">3. Plantilla Marketing</label>
+                            <select id="mktTemplateSelector" onchange="onMktTemplateChange()" class="w-full p-3 bg-slate-50 rounded-xl border border-slate-100 text-sm font-bold text-purple-600 focus:outline-none mb-4"></select>
+                            <div class="border-t border-slate-50 pt-4"><label class="text-[10px] font-bold text-slate-400 uppercase tracking-widest mb-2 block flex justify-between items-center"><span>Variables Detectadas</span></label><div id="mktVariablesContainer" class="space-y-2"><p class="text-[10px] text-slate-400 italic">Selecciona una plantilla para cargar variables.</p></div></div>
+                        </div>
+                        <div class="bg-white p-6 rounded-3xl shadow-sm border border-slate-200 h-96 flex flex-col"><label class="text-[10px] font-bold text-slate-400 uppercase tracking-widest mb-4 block text-center">Vista Previa</label><div class="wa-bg rounded-xl flex-1 border border-slate-200 relative overflow-hidden flex flex-col justify-end p-5 shadow-inner"><div class="bg-white rounded-lg rounded-tl-none shadow-sm max-w-[90%] self-start overflow-hidden"><div id="mktPreviewImg" class="h-32 bg-slate-100 bg-cover bg-center hidden"></div><div id="mktPreviewDoc" class="hidden bg-slate-100 p-2 flex items-center gap-2 border-b border-slate-100"><div class="bg-red-100 text-red-500 rounded p-2"><i class="fa-solid fa-file-pdf"></i></div><span class="text-xs font-bold text-slate-700">Documento</span></div><div class="p-2"><div id="mktPreviewBody" class="text-[12px] text-slate-800 leading-snug mt-1 whitespace-pre-line">...</div><div class="text-[9px] text-slate-400 text-right mt-1">12:00</div></div></div></div></div>
+                        <div class="bg-slate-900 text-white p-6 rounded-3xl shadow-lg relative overflow-hidden"><div class="relative z-10"><h3 class="font-bold text-lg mb-1">Lanzar Campaña</h3><div id="progressContainer" class="hidden mb-4"><div class="w-full bg-slate-700 rounded-full h-2 mb-1"><div id="progressBar" class="bg-purple-500 h-2 rounded-full transition-all" style="width: 0%"></div></div><p class="text-[10px] text-right text-purple-300" id="progressText">0/0</p></div><button id="btnLaunchCampaign" onclick="launchCampaign()" class="w-full py-3 bg-purple-600 hover:bg-purple-500 rounded-xl font-bold text-sm shadow-lg transition-transform active:scale-95 focus:outline-none">INICIAR ENVÍO</button></div></div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- VISTA 3: HISTORIAL -->
+            <div id="view-history" class="view-section hidden absolute inset-0 p-6 lg:p-10 overflow-y-auto custom-scroll">
+                <header class="mb-8 flex justify-between items-center border-b border-slate-200 pb-6">
+                    <div><h2 class="text-2xl font-bold text-slate-800">Historial</h2><p class="text-sm text-slate-400">Actividad reciente.</p></div>
+                    <div class="flex gap-2"><button onclick="deleteHistory('all')" class="text-red-500 hover:bg-red-50 p-2 rounded-lg transition-colors focus:outline-none text-xs font-bold border border-red-100"><i class="fa-solid fa-trash-can mr-1"></i> Vaciar Historial</button><button onclick="loadHistory()" class="text-brand-600 hover:bg-brand-50 p-2 rounded-lg transition-colors focus:outline-none"><i class="fa-solid fa-rotate-right"></i></button></div>
+                </header>
+                <div class="bg-white rounded-3xl shadow-sm border border-slate-200 overflow-hidden">
+                    <table class="w-full text-left text-sm"><thead class="bg-slate-50 text-slate-500 border-b border-slate-100"><tr><th class="p-4">Estado</th><th class="p-4">Fecha de envio</th><th class="p-4">Cliente</th><th class="p-4">Archivo</th><th class="p-4">Plantilla</th><th class="p-4 w-10"></th></tr></thead><tbody id="historyTableBody" class="divide-y divide-slate-100 text-slate-700"><tr><td colspan="6" class="p-8 text-center text-slate-400">Cargando...</td></tr></tbody></table>
+                </div>
+            </div>
+
+            <!-- VISTA 4: FAVORITOS -->
+            <div id="view-favs" class="view-section hidden absolute inset-0 p-6 lg:p-10 overflow-y-auto custom-scroll">
+                <header class="mb-8 flex justify-between items-center border-b border-slate-200 pb-6"><div><h2 class="text-2xl font-bold text-slate-800">Favoritos</h2><p class="text-sm text-slate-400">Base de datos.</p></div></header>
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                    <div class="bg-white p-6 rounded-3xl shadow-md border border-brand-100"><h3 class="text-sm font-bold text-brand-600 mb-6 uppercase tracking-wider">carga Manual</h3><div class="space-y-4"><input id="favName" type="text" placeholder="Nombre" class="w-full p-3 bg-slate-50 rounded-xl border border-slate-100 text-sm focus:outline-none"><input id="favPhone" type="tel" placeholder="Teléfono" class="w-full p-3 bg-slate-50 rounded-xl border border-slate-100 text-sm focus:outline-none"><button onclick="addFavorite()" class="w-full py-3 bg-brand-600 text-white rounded-xl font-bold text-sm hover:bg-brand-500 shadow-lg active:scale-95 focus:outline-none">GUARDAR</button></div></div>
+                    <div class="bg-white p-6 rounded-3xl shadow-md border border-green-100"><h3 class="text-sm font-bold text-green-600 mb-6 uppercase tracking-wider">Carga Masiva Excel</h3><label class="flex items-center justify-center w-full h-24 border-2 border-dashed border-green-200 rounded-xl cursor-pointer hover:bg-green-50"><div class="text-center"><i class="fa-solid fa-cloud-arrow-up text-2xl text-green-300"></i><p class="text-xs text-slate-500 mt-1">Arrastra .xlsx</p></div><input type="file" id="excelInput" class="hidden" accept=".xlsx" onchange="handleExcelUpload(this)"></label><p id="excelStatus" class="text-xs text-center text-slate-400 italic h-4"></p></div>
+                </div>
+            </div>
+
+            <!-- VISTA 5: CONFIG -->
+            <div id="view-config" class="view-section hidden absolute inset-0 p-6 lg:p-10 overflow-y-auto custom-scroll">
+                <div class="max-w-4xl mx-auto">
+                    <header class="mb-8 border-b border-slate-200 pb-6"><h2 class="text-2xl font-bold text-slate-800">Ajustes</h2></header>
+                    <div class="grid grid-cols-1 gap-8">
+                        <div class="bg-white p-6 rounded-3xl shadow-sm border border-slate-200">
+                            <div class="flex justify-between items-center mb-4"><label class="text-[10px] font-bold text-slate-400 uppercase tracking-widest">Credenciales Meta</label><button onclick="syncTemplates()" id="btnSync" class="text-[10px] font-bold bg-blue-50 text-blue-600 px-3 py-1 rounded hover:bg-blue-100"><i class="fa-brands fa-meta mr-1"></i> SINCRONIZAR META</button></div>
+                            <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                                <div><p class="text-[10px] font-bold text-slate-500 mb-1">ID Teléfono</p><input id="confPhoneId" type="text" class="w-full p-3 bg-slate-50 rounded-xl border border-slate-100 text-xs font-mono font-bold focus:outline-none"></div>
+                                <div><p class="text-[10px] font-bold text-slate-500 mb-1">WABA ID (Business Account)</p><input id="confWabaId" type="text" class="w-full p-3 bg-slate-50 rounded-xl border border-slate-100 text-xs font-mono font-bold focus:outline-none" placeholder="Necesario para Sync"></div>
+                                <div class="md:col-span-2"><p class="text-[10px] font-bold text-slate-500 mb-1">Token Permanente</p><input id="confToken" type="password" class="w-full p-3 bg-slate-50 rounded-xl border border-slate-100 text-xs font-mono focus:outline-none"></div>
+                            </div>
+                        </div>
+                        <div class="bg-white p-6 rounded-3xl shadow-sm border border-slate-200">
+                            <label class="text-[10px] font-bold text-slate-400 uppercase tracking-widest mb-4 block">Plantillas Disponibles (Local Cache)</label>
+                            <p class="text-xs text-slate-500 mb-2">Total en caché: <b id="totalCached">0</b></p>
+                            <div class="h-64 overflow-y-auto custom-scroll border border-slate-100 rounded-xl p-2 bg-slate-50"><ul id="templatesListPreview" class="text-xs text-slate-600 space-y-2"></ul></div>
+                        </div>
+                        <button onclick="saveConfig()" class="w-full py-4 bg-slate-900 text-white rounded-xl font-bold shadow-xl hover:bg-slate-800 transition-all active:scale-95 focus:outline-none">GUARDAR CREDENCIALES</button>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <!-- JS -->
+    <script>
+        const API_URL = 'https://compuserviciosbcs.com/facturacion.wa/api.php'; 
+        let TOKEN = localStorage.getItem('cs_auth_token');
+        let CACHED_TEMPLATES = [];
+        let CAMPAIGN_LIST = []; let FILTERED_CAMPAIGN_LIST = [];
+        let selectedClient = null; let selectedFile = null;
+        let currentMktFileName = "";
+
+        // MODIFICADO: Lista de plantillas ZIP
+        const ZIP_TEMPLATES = ["envio_enlace_bcs", "facturas_enlace"];
+
+        window.onload = () => {
+            if (TOKEN) verifyToken(); else document.getElementById('loginScreen').classList.remove('hidden');
+            const searchInput = document.getElementById('searchInput'); if(searchInput) searchInput.addEventListener('input', debounce(handleSearch, 350));
+            document.getElementById('manualSearchMkt').addEventListener('input', debounce(handleMktSearch, 350));
+            const fileInput = document.getElementById('fileInput'); if(fileInput) fileInput.addEventListener('change', handleFile);
+        };
+
+        // --- CORE FUNCTIONS ---
+        async function syncTemplates() {
+            const btn = document.getElementById('btnSync'); btn.innerHTML = '<i class="fa-solid fa-spinner fa-spin"></i> ...'; btn.disabled = true;
+            try {
+                const res = await fetch(`${API_URL}?action=sync_templates&auth_token=${TOKEN}`);
+                const data = await res.json();
+                if(data.success) { alert(`Sincronización Exitosa.\n${data.count} plantillas encontradas.`); loadTemplatesCache(); } 
+                else { alert("Error Sync: " + data.error); }
+            } catch(e) { alert("Error de Red al sincronizar"); }
+            btn.innerHTML = '<i class="fa-brands fa-meta mr-1"></i> SINCRONIZAR META'; btn.disabled = false;
+        }
+
+        async function loadTemplatesCache() {
+            try {
+                const res = await fetch(`${API_URL}?action=get_templates&auth_token=${TOKEN}`);
+                CACHED_TEMPLATES = await res.json();
+                renderTemplatesUI();
+            } catch(e) { console.error("Error loading cache", e); }
+        }
+
+        async function deleteTemplate(name) {
+            if(!confirm(`¿Eliminar plantilla "${name}" de la caché local?`)) return;
+            const fd = new FormData(); fd.append('name', name);
+            try { const res = await fetch(`${API_URL}?action=delete_template&auth_token=${TOKEN}`, {method:'POST', body:fd}); if(await res.json().success) loadTemplatesCache(); } catch(e){}
+        }
+
+        function renderTemplatesUI() {
+            const list = document.getElementById('templatesListPreview'); list.innerHTML = '';
+            document.getElementById('totalCached').innerText = CACHED_TEMPLATES.length;
+            CACHED_TEMPLATES.forEach(t => {
+                const statusColor = t.status === 'APPROVED' ? 'bg-green-100 text-green-600' : 'bg-red-100 text-red-600';
+                list.innerHTML += `<li class="flex justify-between items-center bg-white p-2 rounded border border-slate-100"><div><span class="font-bold">${t.name}</span> <span class="text-[9px] ${statusColor} px-1 rounded uppercase ml-2">${t.status}</span></div><button onclick="deleteTemplate('${t.name}')" class="text-red-400 hover:text-red-600 p-1"><i class="fa-solid fa-trash"></i></button></li>`;
+            });
+
+            const sGen = document.getElementById('sendTemplateSelector'); 
+            const currentVal = sGen.value;
+            sGen.innerHTML = '<option value="">-- Seleccionar --</option>';
+            CACHED_TEMPLATES.forEach(t => sGen.innerHTML += `<option value="${t.name}">${t.name}</option>`);
+            if(currentVal) sGen.value = currentVal;
+
+            const sMkt = document.getElementById('mktTemplateSelector'); 
+            const currentMkt = sMkt.value;
+            sMkt.innerHTML = '<option value="">-- Seleccionar --</option>';
+            const mktTemplates = CACHED_TEMPLATES.filter(t => { const header = t.components.find(c => c.type === 'HEADER'); return header && header.format === 'IMAGE'; });
+            mktTemplates.forEach(t => sMkt.innerHTML += `<option value="${t.name}">${t.name}</option>`);
+            if(currentMkt) sMkt.value = currentMkt;
+            
+            updatePreview(); // Refrescar vista
+        }
+
+        // --- NEW: LÓGICA DE VARIABLES FACTURA INDIVIDUAL ---
+        function onSendTemplateChange() {
+            renderSendTemplateVars();
+            updatePreview();
+        }
+
+        function renderSendTemplateVars() {
+            const tplName = document.getElementById('sendTemplateSelector').value;
+            const container = document.getElementById('sendVariablesContainer');
+            container.innerHTML = '<p class="text-[9px] font-bold text-slate-400 uppercase tracking-widest mb-2">Variables del Mensaje</p>';
+            
+            if(!tplName) { container.classList.add('hidden'); return; }
+
+            const tpl = CACHED_TEMPLATES.find(t => t.name === tplName);
+            if(!tpl) return;
+
+            // Contar variables Body
+            let maxBodyVar = 0;
+            const bodyComp = tpl.components.find(c => c.type === 'BODY');
+            if (bodyComp && bodyComp.text) {
+                const matches = bodyComp.text.match(/{{\s*[0-9]+\s*}}/g);
+                if(matches) matches.forEach(m => { const num = parseInt(m.replace(/[^0-9]/g, '')); if(num > maxBodyVar) maxBodyVar = num; });
+            }
+
+            if(maxBodyVar === 0) {
+                container.innerHTML += '<p class="text-[10px] text-green-500 italic">Sin variables editables.</p>';
+                container.classList.remove('hidden');
+                return;
+            }
+
+            // Generar Inputs
+            for(let i=1; i<=maxBodyVar; i++) {
+                let htmlInput = '';
+                
+                // REGLA 1: Variable 1 siempre es Nombre Cliente
+                if(i === 1) {
+                    htmlInput = `<input type="text" data-index="${i}" class="send-var-input flex-1 p-2 bg-blue-50 text-blue-600 rounded-lg border border-blue-100 text-xs font-bold" value="Nombre del Cliente (Auto)" readonly>`;
+                }
+                // REGLA 2 MODIFICADA: Si es ALGUNA plantilla ZIP y variable 2 -> Link Auto
+                else if (i === 2 && ZIP_TEMPLATES.includes(tplName)) {
+                    htmlInput = `<input type="text" data-index="${i}" class="send-var-input flex-1 p-2 bg-purple-50 text-purple-600 rounded-lg border border-purple-100 text-xs font-bold" value="Enlace de Descarga (Auto)" readonly>`;
+                }
+                // RESTO: Editables
+                else {
+                    htmlInput = `<input type="text" data-index="${i}" class="send-var-input flex-1 p-2 bg-slate-50 rounded-lg border border-slate-100 text-xs focus:outline-none focus:border-brand-300 transition-colors" placeholder="Valor para {{${i}}}" oninput="updatePreview()">`;
+                }
+
+                container.innerHTML += `<div class="flex gap-2 items-center mb-1"><span class="text-xs text-slate-400 font-mono w-6 text-right">{{${i}}}</span>${htmlInput}</div>`;
+            }
+            container.classList.remove('hidden');
+        }
+
+        // --- PREVIEWS ---
+        function updatePreview() { 
+            const btn = document.getElementById('btnSend'); 
+            const tplName = document.getElementById('sendTemplateSelector').value || '';
+            const clientName = selectedClient ? selectedClient.nombre : 'Cliente';
+            
+            document.getElementById('previewTemplateName').innerText = tplName || '...';
+            
+            if (tplName && CACHED_TEMPLATES.length > 0) {
+                const tpl = CACHED_TEMPLATES.find(t => t.name === tplName);
+                if (tpl) {
+                    const header = tpl.components.find(c => c.type === 'HEADER');
+                    const iconBg = document.getElementById('previewIconBg');
+                    const icon = document.getElementById('previewIcon');
+                    const typeText = document.getElementById('previewFileType');
+                    
+                    iconBg.className = "w-10 h-12 flex items-center justify-center rounded text-xl shadow-sm";
+                    if (header && header.format === 'IMAGE') {
+                         icon.className = "fa-solid fa-image"; typeText.innerText = "IMAGEN"; iconBg.classList.add('bg-purple-100', 'text-purple-500');
+                    } else {
+                         icon.className = "fa-solid fa-file-pdf"; typeText.innerText = "DOCUMENTO"; iconBg.classList.add('bg-red-100', 'text-red-500');
+                    }
+
+                    const body = tpl.components.find(c => c.type === 'BODY');
+                    if (body) {
+                        let text = body.text;
+                        
+                        // Reemplazar visualmente con los valores de los inputs
+                        const inputs = document.querySelectorAll('.send-var-input');
+                        if(inputs.length > 0) {
+                            inputs.forEach(inp => {
+                                const idx = inp.getAttribute('data-index');
+                                let val = inp.value;
+                                if(val.includes("(Auto)")) {
+                                    if(idx == 1) val = clientName; 
+                                    if(idx == 2 && ZIP_TEMPLATES.includes(tplName)) val = "[Enlace-Archivo]";
+                                }
+                                if(!val) val = `{{${idx}}}`;
+                                const regex = new RegExp(`{{\\s*${idx}\\s*}}`, 'g');
+                                text = text.replace(regex, `<b>${val}</b>`);
+                            });
+                        } else {
+                            text = text.replace('{{1}}', `<b>${clientName}</b>`);
+                        }
+                        
+                        document.getElementById('msgBodyContainer').innerHTML = `<p class="text-[13px] text-slate-800 leading-snug">${text.replace(/\n/g, '<br>')}</p>`;
+                    }
+                }
+            } else {
+                document.getElementById('msgBodyContainer').innerHTML = '<p class="text-[13px] text-slate-800 leading-snug">Selecciona una plantilla...</p>';
+            }
+
+            btn.classList.remove('bg-brand-600','text-white','hover:bg-brand-500','shadow-lg','cursor-pointer', 'bg-slate-100','text-slate-400', 'cursor-not-allowed');
+            if(selectedClient && selectedFile && tplName !== ''){
+                btn.disabled=false; btn.classList.add('bg-brand-600','text-white','hover:bg-brand-500','shadow-lg','cursor-pointer'); btn.innerHTML='<span>ENVIAR AHORA</span>';
+            } else {
+                btn.disabled=true; btn.classList.add('bg-slate-100','text-slate-400', 'cursor-not-allowed'); btn.innerHTML='<span>FALTAN DATOS</span>';
+            }
+        }
+
+        // --- MARKETING LOGIC (EXISTENTE) ---
+        function onMktTemplateChange() {
+            const tplName = document.getElementById('mktTemplateSelector').value;
+            const container = document.getElementById('mktVariablesContainer'); container.innerHTML = '';
+            if(!tplName) { container.innerHTML = '<p class="text-[10px] text-slate-400 italic">Selecciona una plantilla.</p>'; document.getElementById('mktPreviewBody').innerText = "..."; return; }
+            const tpl = CACHED_TEMPLATES.find(t => t.name === tplName); if(!tpl) return;
+
+            let maxBodyVar = 0; let buttonVars = [];
+            const bodyComp = tpl.components.find(c => c.type === 'BODY');
+            if (bodyComp) { const matches = bodyComp.text.match(/{{\s*[0-9]+\s*}}/g); if(matches) matches.forEach(m => { const num = parseInt(m.replace(/[^0-9]/g, '')); if(num > maxBodyVar) maxBodyVar = num; }); }
+            const buttonsComp = tpl.components.find(c => c.type === 'BUTTONS');
+            if (buttonsComp && buttonsComp.buttons) { buttonsComp.buttons.forEach((btn, idx) => { if (btn.type === 'COPY_CODE') { buttonVars.push({ index: idx, text: "Código Cupón", type: 'copy_code' }); } else if (btn.type === 'URL' && btn.url && btn.url.includes('{{1}}')) { buttonVars.push({ index: idx, text: btn.text, type: 'url' }); } }); }
+
+            let html = '';
+            if(maxBodyVar > 0) {
+                html += '<p class="text-[9px] font-bold text-slate-500 mb-1">Cuerpo del Mensaje:</p>';
+                for(let i=1; i<=maxBodyVar; i++) {
+                    let isName = (i === 1); 
+                    let inputProps = isName ? 'readonly class="flex-1 p-2 bg-blue-50 text-blue-600 rounded-lg border border-blue-100 text-xs font-bold" value="Nombre del Cliente (Auto)"' : `class="mkt-var-input flex-1 p-2 bg-slate-50 rounded-lg border border-slate-100 text-xs focus:outline-none focus:border-purple-300 transition-colors" placeholder="Valor cuerpo {{${i}}}"`;
+                    html += `<div class="flex gap-1 items-center mb-1"><span class="text-xs text-slate-400 font-mono w-8 text-right">{{${i}}}</span><input type="text" data-type="body" data-index="${i}" ${inputProps} oninput="updateMktPreviewText()"></div>`;
+                }
+            }
+            if (buttonVars.length > 0) {
+                html += '<div class="mt-2"><p class="text-[9px] font-bold text-slate-500 mb-1">Botones Dinámicos:</p>';
+                buttonVars.forEach(btn => { let icon = btn.type === 'copy_code' ? '<i class="fa-solid fa-tags"></i>' : '<i class="fa-solid fa-link"></i>'; html += `<div class="flex gap-1 items-center mb-1"><span class="text-xs text-slate-400 font-mono w-auto text-right mr-1">${icon}</span><input type="text" data-type="button" data-btn-type="${btn.type}" data-index="${btn.index}" class="mkt-var-input flex-1 p-2 bg-slate-50 rounded-lg border border-slate-100 text-xs focus:outline-none focus:border-purple-300 transition-colors" placeholder="${btn.type==='copy_code' ? 'Código de oferta' : 'Variable URL'}" oninput="updateMktPreviewText()"></div>`; });
+                html += '</div>';
+            }
+            if (html === '') html = '<p class="text-[10px] text-green-500 italic">Esta plantilla no requiere variables.</p>';
+            container.innerHTML = html;
+            updateMktPreviewText();
+        }
+
+        function updateMktPreviewText() {
+            const tplName = document.getElementById('mktTemplateSelector').value; if(!tplName) return;
+            const tpl = CACHED_TEMPLATES.find(t => t.name === tplName);
+            let text = tpl.components.find(c => c.type === 'BODY').text;
+            const bodyInputs = document.querySelectorAll('#mktVariablesContainer input[data-type="body"]');
+            bodyInputs.forEach(inp => { const idx = inp.getAttribute('data-index'); let val = inp.value; if(inp.readOnly && val.includes("(Auto)")) val = "Cliente"; const regex = new RegExp(`{{\\s*${idx}\\s*}}`, 'g'); text = text.replace(regex, `<b class="text-purple-600">${val || `{{${idx}}}`}</b>`); });
+            document.getElementById('mktPreviewBody').innerHTML = text.replace(/\n/g, '<br>');
+        }
+
+        async function handleMktSearch(e) {
+            const q = e.target.value; const res = document.getElementById('mktSearchResults');
+            if (q.length < 2) { res.classList.add('hidden'); return; }
+            fetch(`${API_URL}?action=search&q=${q}&auth_token=${TOKEN}`).then(r => r.json()).then(d => { res.innerHTML = ''; if (d.length > 0) { res.classList.remove('hidden'); d.forEach(c => { const safeC = JSON.stringify(c).replace(/"/g, '&quot;'); res.innerHTML += `<div onclick="addToCampaign(JSON.parse('${safeC}'))" class='p-2 hover:bg-purple-50 cursor-pointer border-b text-xs text-slate-600'><b>${c.nombre}</b> (${c.telefono}) <span class="float-right text-purple-500"><i class="fa-solid fa-plus"></i></span></div>`; }); } else { res.innerHTML = '<div class="p-2 text-center text-xs text-slate-400">Sin resultados</div>'; } });
+        }
+        function addToCampaign(c) { const cleanPhone = c.telefono.replace(/\D/g, ''); const exists = CAMPAIGN_LIST.some(item => item.telefono.replace(/\D/g, '') === cleanPhone); if (!exists) { CAMPAIGN_LIST.push({ ...c, checked: true }); renderCampaignTable(); document.getElementById('manualSearchMkt').value = ''; document.getElementById('mktSearchResults').classList.add('hidden'); } else { alert("Cliente ya en lista."); } }
+        async function handleMktFile(input) {
+            const file = input.files[0]; if(!file) return;
+            const reader = new FileReader(); reader.onload = (e) => { const imgDiv = document.getElementById('mktPreviewImg'); imgDiv.style.backgroundImage = `url('${e.target.result}')`; imgDiv.classList.remove('hidden'); document.getElementById('mktPreviewDoc').classList.add('hidden'); }; reader.readAsDataURL(file);
+            const fd = new FormData(); fd.append('file', file); fd.append('phone', '0000000000'); 
+            document.getElementById('mktFileName').innerText = "Subiendo...";
+            try { const res = await fetch(`${API_URL}?action=send&auth_token=${TOKEN}`, { method: 'POST', body: fd }); const data = await res.json(); if(data.success && data.uploaded_filename) { currentMktFileName = data.uploaded_filename; document.getElementById('mktFileName').innerText = file.name + " (Listo)"; document.getElementById('mktFileName').className = "text-xs text-center mt-2 text-green-500 font-bold italic"; } else { document.getElementById('mktFileName').innerText = "Error subida"; document.getElementById('mktFileName').className = "text-xs text-center mt-2 text-red-500 font-bold italic"; } } catch(e){ document.getElementById('mktFileName').innerText = "Error red"; }
+        }
+        function handleMktExcel(input) { const file = input.files[0]; if(!file) return; const reader = new FileReader(); reader.onload = function(e) { const workbook = XLSX.read(new Uint8Array(e.target.result), {type: 'array'}); const jsonData = XLSX.utils.sheet_to_json(workbook.Sheets[workbook.SheetNames[0]], {header: 1}); let addedCount = 0; jsonData.forEach(row => { if(row[0] && row[1]) { const newC = { nombre: row[0], telefono: row[1].toString(), checked: true }; if(!CAMPAIGN_LIST.some(item => item.telefono.replace(/\D/g,'') === newC.telefono.replace(/\D/g,''))) { CAMPAIGN_LIST.push(newC); addedCount++; } } }); renderCampaignTable(); alert(`Carga: ${addedCount} nuevos.`); }; reader.readAsArrayBuffer(file); }
+        function renderCampaignTable() { const tbody = document.getElementById('campaignTableBody'); tbody.innerHTML = ''; if (CAMPAIGN_LIST.length === 0) { tbody.innerHTML = '<tr><td colspan="4" class="p-8 text-center text-slate-400 italic">Lista vacía. Agrega clientes arriba.</td></tr>'; updateSelectedCount(); return; } CAMPAIGN_LIST.forEach((c, index) => { const tr = document.createElement('tr'); tr.className = "hover:bg-purple-50 border-b border-slate-50"; tr.innerHTML = `<td class="p-3 w-10 text-center"><input type="checkbox" class="client-check rounded text-purple-600 focus:ring-purple-500 cursor-pointer" data-index="${index}" ${c.checked ? 'checked' : ''} onchange="toggleSingle(${index}, this)"></td><td class="p-3 text-sm font-medium text-slate-700">${c.nombre}</td><td class="p-3 text-xs font-mono text-slate-500">${c.telefono}</td><td class="p-3 w-10 text-center"><button onclick="removeFromCampaign(${index})" class="text-slate-300 hover:text-red-500"><i class="fa-solid fa-xmark"></i></button></td>`; tbody.appendChild(tr); }); updateSelectedCount(); }
+        function removeFromCampaign(index) { CAMPAIGN_LIST.splice(index, 1); renderCampaignTable(); } 
+        function clearCampaignList() { CAMPAIGN_LIST = []; renderCampaignTable(); }
+        function toggleSingle(index, cb) { CAMPAIGN_LIST[index].checked = cb.checked; updateSelectedCount(); }
+        function toggleAllMkt(source) { CAMPAIGN_LIST.forEach(c => c.checked = source.checked); renderCampaignTable(); }
+        function updateSelectedCount() { document.getElementById('selectedCount').innerText = `${CAMPAIGN_LIST.filter(c => c.checked).length} para enviar`; }
+
+        async function launchCampaign() {
+            const selectedClients = CAMPAIGN_LIST.filter(c => c.checked); if(selectedClients.length === 0) return alert("Lista vacía.");
+            const tpl = document.getElementById('mktTemplateSelector').value; if(!tpl) return alert("Selecciona plantilla.");
+            if(!currentMktFileName) return alert("Falta imagen (espera a que diga Listo).");
+            
+            const bodyVars = []; document.querySelectorAll('#mktVariablesContainer input[data-type="body"]').forEach(inp => { if(inp.readOnly && inp.value.includes("(Auto)")) bodyVars.push('{{CLIENT_NAME_PLACEHOLDER}}'); else bodyVars.push(inp.value); });
+            const buttonVars = []; document.querySelectorAll('#mktVariablesContainer input[data-type="button"]').forEach(inp => { buttonVars.push({ index: inp.getAttribute('data-index'), value: inp.value, type: inp.getAttribute('data-btn-type') }); });
+
+            const btn = document.getElementById('btnLaunchCampaign'); btn.disabled=true; btn.innerText="ENVIANDO..."; document.getElementById('progressContainer').classList.remove('hidden');
+            try { const res = await fetch(`${API_URL}?action=send_campaign&auth_token=${TOKEN}`, { method: 'POST', headers: {'Content-Type': 'application/json'}, body: JSON.stringify({ clientes: selectedClients, template: tpl, body_params: bodyVars, button_params: buttonVars, filename: currentMktFileName }) }); const d = await res.json(); document.getElementById('progressBar').style.width="100%"; document.getElementById('progressText').innerText="COMPLETADO"; if(d.success) { alert(`Finalizado: ${d.stats.enviados} OK`); nav('history'); } else { alert("Error: " + d.error); } } catch(e) { alert("Error Red"); }
+            btn.disabled = false; btn.innerText = "INICIAR ENVÍO";
+        }
+
+        // --- HISTORIAL ---
+        async function loadHistory() { const tbody = document.getElementById('historyTableBody'); tbody.innerHTML = '<tr><td colspan="6" class="p-8 text-center text-slate-400">Cargando...</td></tr>'; fetch(`${API_URL}?action=get_history&auth_token=${TOKEN}`).then(r=>r.json()).then(d=>{ tbody.innerHTML=''; d.forEach(r=>{ const st = r.status==='success'?'<span class="text-green-600 font-bold">OK</span>':'<span class="text-red-600 font-bold">Error</span>'; const icon = r.plantilla === 'Campaña MKT' ? '<i class="fa-solid fa-bullhorn text-purple-400"></i>' : '<i class="fa-solid fa-file text-slate-400"></i>'; tbody.innerHTML += `<tr><td class='p-4'>${st}</td><td class='p-4 text-xs font-mono'>${r.fecha}</td><td class='p-4 font-bold'>${r.cliente}</td><td class='p-4 text-xs'>${icon} ${r.archivo}</td><td class='p-4 text-xs'>${r.plantilla}</td><td class='p-4 text-right'><button onclick="deleteHistory('${r.id}')" class="text-slate-300 hover:text-red-500 transition-colors"><i class="fa-solid fa-trash-can"></i></button></td></tr>`; }); }); }
+        async function deleteHistory(id) { if(!confirm(id === 'all' ? "¿Borrar TODO?" : "¿Borrar?")) return; const fd = new FormData(); fd.append('id', id); fetch(`${API_URL}?action=delete_history&auth_token=${TOKEN}`, { method: 'POST', body: fd }).then(()=>loadHistory()); }
+
+        // --- UTILS ---
+        async function doLogin(e) { e.preventDefault(); const pass = document.getElementById('passInput').value; const btn = document.getElementById('btnLogin'); btn.innerHTML = '...'; btn.disabled = true; const fd = new FormData(); fd.append('password', pass); try { const res = await fetch(`${API_URL}?action=login`, { method: 'POST', body: fd }); const data = await res.json(); if(data.success) { TOKEN=data.token; localStorage.setItem('cs_auth_token',TOKEN); loadConfig(); loadTemplatesCache(); enterApp(); } else { btn.innerHTML='ERROR'; setTimeout(()=>{btn.innerHTML='INGRESAR';btn.disabled=false;},2000); } } catch(e) { btn.innerHTML='ERROR RED'; setTimeout(()=>{btn.innerHTML='INGRESAR';btn.disabled=false;},2000); } }
+        function verifyToken() { enterApp(); loadConfig(); loadTemplatesCache(); }
+        function enterApp() { document.getElementById('loginScreen').classList.add('hidden'); document.getElementById('appLayout').classList.remove('hidden'); nav('send'); }
+        function logout() { localStorage.removeItem('cs_auth_token'); location.reload(); }
+        function nav(viewId) { document.querySelectorAll('.view-section').forEach(el=>el.classList.add('hidden')); document.getElementById(`view-${viewId}`).classList.remove('hidden'); if(viewId==='config')loadConfig(); if(viewId==='history')loadHistory(); }
+        function debounce(f,w){let t;return function(...a){clearTimeout(t);t=setTimeout(()=>f.apply(this,a),w);}}
+        async function handleSearch(e) { const q=e.target.value; const res=document.getElementById('searchResults'); if(q.length<2){res.classList.add('hidden');return;} fetch(`${API_URL}?action=search&q=${q}&auth_token=${TOKEN}`).then(r=>r.json()).then(d=>{ res.innerHTML=''; if(d.length>0){res.classList.remove('hidden'); d.forEach(c=>{ res.innerHTML+=`<div onclick='selectClient(${JSON.stringify(c)})' class='p-3 hover:bg-brand-50 cursor-pointer border-b'>${c.nombre}</div>`; });} }); }
+        function selectClient(c){ selectedClient=c; document.getElementById('selectedClient').classList.remove('hidden'); document.getElementById('selName').innerText=c.nombre; document.getElementById('selPhone').innerText=c.telefono; document.getElementById('searchResults').classList.add('hidden'); updatePreview(); }
+        function clearSelection(){ selectedClient=null; document.getElementById('selectedClient').classList.add('hidden'); updatePreview(); }
+        function handleFile(e){ const f=e.target.files[0]; if(!f)return; selectedFile=f; document.getElementById('fileName').innerText=f.name; updatePreview(); }
+        
+        // --- SEND INVOICE (MODIFICADO) ---
+        async function sendInvoice() {
+            const btn = document.getElementById('btnSend'); btn.disabled=true; btn.innerHTML='...';
+            const templateName = document.getElementById('sendTemplateSelector').value;
+            
+            // Recolectar variables dinámicas
+            const bodyParams = [];
+            document.querySelectorAll('.send-var-input').forEach(inp => {
+                const idx = parseInt(inp.getAttribute('data-index'));
+                if (idx === 1) bodyParams.push('{{CLIENT_NAME}}'); // Marcador
+                
+                // MODIFICADO: Verificar en lista de plantillas ZIP
+                else if (idx === 2 && ZIP_TEMPLATES.includes(templateName)) bodyParams.push('{{FILE_LINK}}'); // Marcador Link
+                else bodyParams.push(inp.value); // Valor manual
+            });
+
+            const fd = new FormData(); 
+            fd.append('file',selectedFile); 
+            fd.append('phone',selectedClient.telefono); 
+            fd.append('name',selectedClient.nombre); 
+            fd.append('template_name', templateName);
+            fd.append('body_params_json', JSON.stringify(bodyParams)); // Nuevo campo
+
+            try {
+                const res = await fetch(`${API_URL}?action=send&auth_token=${TOKEN}`, {method:'POST', body:fd});
+                const d = await res.json();
+                if(d.success){ alert("Enviado"); location.reload(); } else { alert(d.error); }
+            } catch(e){ alert("Error Red"); }
+            btn.disabled=false; updatePreview(); 
+        }
+
+        async function addFavorite(){ const n = document.getElementById('favName').value; const t = document.getElementById('favPhone').value; if(!n||!t) return; const fd = new FormData(); fd.append('nombre',n); fd.append('telefono',t); fetch(`${API_URL}?action=add_favorite&auth_token=${TOKEN}`, {method:'POST', body:fd}).then(r=>r.json()).then(d=>{ if(d.success)alert("Guardado"); }); }
+        function handleExcelUpload(input) { const file = input.files[0]; if(!file) return; const status = document.getElementById('excelStatus'); status.innerText = "Leyendo..."; status.className = "text-xs text-center text-blue-500 font-bold"; const reader = new FileReader(); reader.onload = function(e) { const data = new Uint8Array(e.target.result); const workbook = XLSX.read(data, {type: 'array'}); const jsonData = XLSX.utils.sheet_to_json(workbook.Sheets[workbook.SheetNames[0]], {header: 1}); const contactos = []; jsonData.forEach(row => { if(row[0] && row[1]) contactos.push({ nombre: row[0], telefono: row[1].toString() }); }); if(contactos.length > 0) enviarContactosExcel(contactos); else { status.innerText = "Vacío"; status.className = "text-red-500"; } }; reader.readAsArrayBuffer(file); }
+        async function enviarContactosExcel(contactos) { const status = document.getElementById('excelStatus'); status.innerText = "Procesando..."; try { const res = await fetch(`${API_URL}?action=import_favorites&auth_token=${TOKEN}`, { method: 'POST', headers: {'Content-Type': 'application/json'}, body: JSON.stringify({ contactos: contactos }) }); const data = await res.json(); if(data.success) { status.innerText = `Listo: ${data.agregados} agregados.`; status.className = "text-xs text-center text-green-600 font-bold"; setTimeout(() => { status.innerText = ""; document.getElementById('excelInput').value = ""; }, 5000); alert(`Proceso completado:\n- Agregados: ${data.agregados}`); } else { status.innerText = "Error API"; status.className = "text-red-500"; } } catch(e) { status.innerText = "Error Red"; status.className = "text-red-500"; } }
+        async function loadConfig() { fetch(`${API_URL}?action=get_settings&auth_token=${TOKEN}`).then(r=>r.json()).then(d=>{ document.getElementById('confPhoneId').value=d.meta_phone_id; document.getElementById('confToken').value=d.meta_token; document.getElementById('confWabaId').value=d.meta_waba_id || ''; }); }
+        async function saveConfig() { const fd=new FormData(); fd.append('meta_phone_id',document.getElementById('confPhoneId').value); fd.append('meta_token',document.getElementById('confToken').value); fd.append('meta_waba_id',document.getElementById('confWabaId').value); fetch(`${API_URL}?action=save_settings&auth_token=${TOKEN}`, {method:'POST', body:fd}).then(()=>alert("Guardado")); }
+    </script>
+</body>
+</html>

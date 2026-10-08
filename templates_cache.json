@@ -1,0 +1,631 @@
+[
+    {
+        "name": "tienda_aviso",
+        "status": "APPROVED",
+        "components": [
+            {
+                "type": "HEADER",
+                "format": "IMAGE",
+                "example": {
+                    "header_handle": [
+                        "https:\/\/scontent.whatsapp.net\/v\/t61.29466-34\/605485670_1332957505280000_3758605064227289340_n.png?ccb=1-7&_nc_sid=8b1bef&_nc_ohc=n-tf_WsQqkoQ7kNvwEmMMkD&_nc_oc=Adpz1W_0gZ9PUB0NVhBoreYM6GcQdkje6qnLABl2CWd8AlxZidBG3hjrFKWdJWB9Id0&_nc_zt=3&_nc_ht=scontent.whatsapp.net&edm=AH51TzQEAAAA&_nc_gid=smJhJnGGdfuEcr-Fa9woIQ&_nc_tpa=Q5bMBQKQlMpRX4IE4qpFQMD3nnVvPQykwhKNBG1tXyCQYkoxIxO36e-qBA0QhQF3JeVubZ_gQq-c_oIO&oh=01_Q5Aa5QGqKCUtcoXMhvBGWeWLM23d8_PelXBPICuYFroJFdPIfA&oe=6AB13445"
+                    ]
+                }
+            },
+            {
+                "type": "BODY",
+                "text": "Hola *{{1}},* \u00a1tenemos algo nuevo para ti! \ud83c\udf89\n\nEstamos estrenando Tienda Online con un gran Catalogo de productos \ny con env\u00edos directos a tu domicilio \ud83d\udce6\n\nAlgunas *categor\u00edas* que encontraras son:\n\n- Videovigilancia\n- Redes e IT\n- Audio y Video Profesional\n- C\u00e1maras y DVRs\n- Energ\u00eda y Climatizaci\u00f3n\n\nSi tienes dudas o requieres que te apoyemos en realizar la compra o cotizar con nosotros directo no dudes en hablarnos \ud83e\udee1\ud83e\udd16",
+                "example": {
+                    "body_text": [
+                        [
+                            "Brandon"
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "FOOTER",
+                "text": "Soluciones tecnol\u00f3gicas a tu alcance en La Paz B.C.S."
+            },
+            {
+                "type": "BUTTONS",
+                "buttons": [
+                    {
+                        "type": "URL",
+                        "text": "Visita la Tienda",
+                        "url": "https:\/\/www.productos-info.com\/tienda\/compuserviciosbcs"
+                    }
+                ]
+            }
+        ],
+        "language": "es_MX",
+        "id": "1332957501946667"
+    },
+    {
+        "name": "estado_de_cuenta_cs",
+        "status": "APPROVED",
+        "components": [
+            {
+                "type": "HEADER",
+                "format": "DOCUMENT",
+                "example": {
+                    "header_handle": [
+                        "https:\/\/scontent.whatsapp.net\/v\/t61.29466-34\/534423448_1580331226840480_9079270930137186363_n.pdf?ccb=1-7&_nc_sid=8b1bef&_nc_ohc=gMw1pLriBEkQ7kNvwF1weCZ&_nc_oc=AdryZNnotokSHdA-nSpZPwjrSD5obCW9PZn5NqlBMvcghBlBigqnXEzRAHPYslqREwc&_nc_zt=3&_nc_ht=scontent.whatsapp.net&edm=AH51TzQEAAAA&_nc_gid=smJhJnGGdfuEcr-Fa9woIQ&_nc_tpa=Q5bMBQInqxBDNQt79D2LG_hONTaNhqY5gE1pJqWFbwKJkphttFBwi8vGawgxLK2oWtlQNdx_yUuXI42X&oh=01_Q5Aa5QENWKrYiVc2A3fyfieZ8ivz6LwwQ7_Ia8i56i-TiOvmMw&oe=6AB14E06"
+                    ]
+                }
+            },
+            {
+                "type": "BODY",
+                "text": "Hola *{{1}}* \ud83d\udc4b, te compartimos tu estado de cuenta de Compuservicios BCS con corte al *{{2}}*. \n\nActualmente registramos *{{3}}* factura(s) con saldo pendiente por un total de $*{{4}}* pesos.\n\nEn el documento adjunto encontrar\u00e1s el detalle con folios, fechas de vencimiento y montos, as\u00ed como los datos para transferencia.\n\nSi ya realizaste tu pago o necesitas aclarar alg\u00fan movimiento, responde a este mensaje y con gusto te atendemos. \ud83e\udee1",
+                "example": {
+                    "body_text": [
+                        [
+                            "Brandon",
+                            "12 de agosto de 2026",
+                            "3",
+                            "12,450.00"
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "FOOTER",
+                "text": "Compuservicios BCS \u00b7 La Paz, B.C.S."
+            },
+            {
+                "type": "BUTTONS",
+                "buttons": [
+                    {
+                        "type": "QUICK_REPLY",
+                        "text": "Ver detalle"
+                    },
+                    {
+                        "type": "QUICK_REPLY",
+                        "text": "Ya realice el Pago"
+                    },
+                    {
+                        "type": "QUICK_REPLY",
+                        "text": "Hablar con un asesor"
+                    }
+                ]
+            }
+        ],
+        "language": "es_MX",
+        "id": "1580331223507147"
+    },
+    {
+        "name": "eventos",
+        "status": "APPROVED",
+        "components": [
+            {
+                "type": "HEADER",
+                "format": "IMAGE",
+                "example": {
+                    "header_handle": [
+                        "https:\/\/scontent.whatsapp.net\/v\/t61.29466-34\/627267526_788790250657273_3026867557571571484_n.jpg?ccb=1-7&_nc_sid=8b1bef&_nc_ohc=7xP1GxhoSj8Q7kNvwF519s8&_nc_oc=AdryG-5BIPsj-UDY1_AMZdA6jMIPKgY7HLzIsmg27F6hAgcENvh3_RIOcd4OvHr2GWk&_nc_zt=3&_nc_ht=scontent.whatsapp.net&edm=AH51TzQEAAAA&_nc_gid=smJhJnGGdfuEcr-Fa9woIQ&_nc_tpa=Q5bMBQJDq7lEzovCl4_qVXmH1y-cqeUgNRI9ZMnpRxsoFpvJW4Bx6L9hB7-7aXcqo6B6xXWErNs9Hwr-&oh=01_Q5Aa5QH49cMJOo4o27QEx-LKi3P7fdMXt-7IMDUwRSiPmOx3uQ&oe=6AB15364"
+                    ]
+                }
+            },
+            {
+                "type": "BODY",
+                "text": "Hola *{{1}}* espero est\u00e9s teniendo un excelente d\u00eda \ud83d\udc4b\n\nTenemos webinars exclusivos de CONTPAQi para ti este mes:\n\n\ud83d\udcca *{{2}}*\n\n\ud83d\ude80 *{{3}}*\n\nAprende a mejorar tu control fiscal y optimizar la gesti\u00f3n de tu despacho.\n\n\ud83c\udfaf Reg\u00edstrate en el bot\u00f3n de abajo",
+                "example": {
+                    "body_text": [
+                        [
+                            "Brandon",
+                            "ANTICIPA - La evoluci\u00f3n de la gesti\u00f3n contable para despachos modernos (Miercoles 29 de abril 2026).",
+                            "OPTIMIZA - Disminuye riesgos fiscales (Martes 28 de abril 2026)."
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "BUTTONS",
+                "buttons": [
+                    {
+                        "type": "URL",
+                        "text": "Registrarse al evento",
+                        "url": "https:\/\/compuserviciosbcs.com\/ofertas.html"
+                    }
+                ]
+            }
+        ],
+        "language": "es_MX",
+        "id": "788790243990607"
+    },
+    {
+        "name": "act_compac",
+        "status": "APPROVED",
+        "components": [
+            {
+                "type": "HEADER",
+                "format": "IMAGE",
+                "example": {
+                    "header_handle": [
+                        "https:\/\/scontent.whatsapp.net\/v\/t61.29466-34\/637279149_1954121758817085_5656752864633231116_n.png?ccb=1-7&_nc_sid=8b1bef&_nc_ohc=cXkPm5sruaUQ7kNvwGJzv9_&_nc_oc=AdobmcoVgjdQ4ybb46miKIdiAvFZErGwPwG9KqmV5-kkPDnJpcWcuhhJSLeGy25Qo0Y&_nc_zt=3&_nc_ht=scontent.whatsapp.net&edm=AH51TzQEAAAA&_nc_gid=smJhJnGGdfuEcr-Fa9woIQ&_nc_tpa=Q5bMBQKKLzyAiHhHAZIudyUYdTE5HvAXT1U8R_XL1FPbLamuymXCLIYxf54SG45ft9xeKaD3mK8RIkft&oh=01_Q5Aa5QEXHbqxZJxOGTy0t9ZeZVhwH6JitgPvAIzCvcvThOtiLw&oe=6AB15C4C"
+                    ]
+                }
+            },
+            {
+                "type": "BODY",
+                "text": "Hola \ud83d\udc4b *{{1}}* Sab\u00edas que la nueva versi\u00f3n de *{{2}}* ya esta disponible y trae muchas novedades que pueden interesarte. \ud83e\udd14\ud83d\udc4c\n\nTe invitamos a que actualices con nosotros, escr\u00edbenos por medio de este mensaje y te apoyamos con una cotizaci\u00f3n en minutos\n\n*Si tienes alguna duda, con gusto te atendemos \ud83e\udd16.*",
+                "example": {
+                    "body_text": [
+                        [
+                            "Brandon",
+                            "contabilidad 19.0.2"
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "BUTTONS",
+                "buttons": [
+                    {
+                        "type": "URL",
+                        "text": "Visita nuestra Pagina",
+                        "url": "https:\/\/compuserviciosbcs.com\/"
+                    }
+                ]
+            }
+        ],
+        "language": "es_MX",
+        "id": "1954121755483752"
+    },
+    {
+        "name": "envio_estados_cs",
+        "status": "APPROVED",
+        "components": [
+            {
+                "type": "BODY",
+                "text": "Hola  \ud83d\udc4b*{{1}}*, te comparto tus estado de cuenta.\n\nPuedes descargarlos en el siguiente enlace: {{2}} Favor de confirmar recibido. \n\n*Si necesita la informaci\u00f3n de pago \ud83d\udcb3 por favor de revisar el el apartado Datos de Pago en el encabezado de abajo o comunicarse con Soporte*.",
+                "example": {
+                    "body_text": [
+                        [
+                            "Brandon",
+                            "https:\/\/compuserviciosbcs.com\/descarga\/archivo.zip"
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "BUTTONS",
+                "buttons": [
+                    {
+                        "type": "URL",
+                        "text": "Datos de Pago",
+                        "url": "https:\/\/soporte.wintook.com\/?id=2427"
+                    }
+                ]
+            }
+        ],
+        "language": "es_MX",
+        "id": "1111445114341994"
+    },
+    {
+        "name": "promociones_meses",
+        "status": "APPROVED",
+        "components": [
+            {
+                "type": "HEADER",
+                "format": "IMAGE",
+                "example": {
+                    "header_handle": [
+                        "https:\/\/scontent.whatsapp.net\/v\/t61.29466-34\/534423477_1192576986410324_3745751321743680800_n.png?ccb=1-7&_nc_sid=8b1bef&_nc_ohc=n5MVcdXsEZAQ7kNvwHQKURj&_nc_oc=AdpYhb9Mq2NH3AMRmRF6_Y8sZ2lTdrR8WW0vF7tgLVM6MlTANJA_hPl0_8UXt2Z9Tnc&_nc_zt=3&_nc_ht=scontent.whatsapp.net&edm=AH51TzQEAAAA&_nc_gid=smJhJnGGdfuEcr-Fa9woIQ&_nc_tpa=Q5bMBQK6FilflxdxqsQ2iviZSl2xuPJfF5eqcZcw2zeYsvsg74iFTUfovmGbiX3HvCXhPb7wXJMx1YBS&oh=01_Q5Aa5QFG9imt8dsTOr7Wz5ID8evT7_DFY_yYkDH7hhq3G01arw&oe=6AB15F60"
+                    ]
+                }
+            },
+            {
+                "type": "BODY",
+                "text": "Hola *{{1}}* \ud83d\udc4b\n\nDurante el mes de *{{2}}* tenemos promociones y beneficios especiales pensados para ti y tu negocio.\n\nEstas promociones estar\u00e1n vigentes *{{3}}*.\n\n\ud83d\udc49 Para hacer v\u00e1lida la oferta, solo copia y pega el cup\u00f3n desde el bot\u00f3n de este mensaje y te realizamos tu cotizaci\u00f3n.\n\nSi tienes alguna duda o deseas aprovechar la promoci\u00f3n, con gusto te atendemos \ud83e\udd16.",
+                "example": {
+                    "body_text": [
+                        [
+                            "Brandon",
+                            "Febrero",
+                            "Todo el mes de Febrero"
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "BUTTONS",
+                "buttons": [
+                    {
+                        "type": "COPY_CODE",
+                        "text": "Copiar c\u00f3digo de oferta",
+                        "example": [
+                            "COMPUBOT"
+                        ]
+                    },
+                    {
+                        "type": "URL",
+                        "text": "Visita nuestra web",
+                        "url": "https:\/\/compuserviciosbcs.com\/"
+                    }
+                ]
+            }
+        ],
+        "language": "es_MX",
+        "id": "1192576983076991"
+    },
+    {
+        "name": "facturas_enlace",
+        "status": "APPROVED",
+        "components": [
+            {
+                "type": "BODY",
+                "text": "Hola  \ud83d\udc4b*{{1}}*, adjuntamos tus Facturas pendientes de pago comprimidos. Puedes descargarlos en el siguiente enlace: {{2}} Favor de confirmar recibido.\n\n*Si necesita la informaci\u00f3n de pago \ud83d\udcb3 por favor de revisar las facturas en el encabezado de abajo o comunicarse con Soporte*.",
+                "example": {
+                    "body_text": [
+                        [
+                            "Brandon",
+                            "https:\/\/compuserviciosbcs.com\/descarga\/archivo.zip"
+                        ]
+                    ]
+                }
+            }
+        ],
+        "language": "es_MX",
+        "id": "893962513116403"
+    },
+    {
+        "name": "facturas_cs_v2",
+        "status": "APPROVED",
+        "components": [
+            {
+                "type": "HEADER",
+                "format": "DOCUMENT",
+                "example": {
+                    "header_handle": [
+                        "https:\/\/scontent.whatsapp.net\/v\/t61.29466-34\/546512564_1293914856101879_7849077439955070049_n.pdf?ccb=1-7&_nc_sid=8b1bef&_nc_ohc=ldMkQcppl7UQ7kNvwHwyvZ6&_nc_oc=Adr-kRpjYufUuUocyMVEtNR66ee0YEwHj2hyWpsncO1f5HgUzu5wE53CIb69trW8PLI&_nc_zt=3&_nc_ht=scontent.whatsapp.net&edm=AH51TzQEAAAA&_nc_gid=smJhJnGGdfuEcr-Fa9woIQ&_nc_tpa=Q5bMBQLM0pt7xYmyuX2QhzdOPxC5D6U2XM3oa5u9YFuq_5N4UYF3xEJUCY3AzeCDhVScg_iYMrwevv-4&oh=01_Q5Aa5QH0Sm8i2FVCL8tvMKqGpwDB2XGbF3ciKC680E2sBLGF8g&oe=6AB13AC0"
+                    ]
+                }
+            },
+            {
+                "type": "BODY",
+                "text": "Hola \ud83d\udc4b *{{1}}*, adjuntamos {{2}} correspondientes a sus servicios realizados. \n\n\"Por favor, responda con un \ud83d\udc4d, o contestar este mensaje para confirmar recepci\u00f3n.\"\n\nSi necesita la informaci\u00f3n de pago \ud83d\udcb3 por favor de revisar el apartado *Datos de pago* debajo o comunicarse con Soporte.",
+                "example": {
+                    "body_text": [
+                        [
+                            "Brandon",
+                            "las facturas"
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "BUTTONS",
+                "buttons": [
+                    {
+                        "type": "URL",
+                        "text": "Datos de Pago",
+                        "url": "https:\/\/soporte.wintook.com\/?id=2427"
+                    }
+                ]
+            }
+        ],
+        "language": "es_MX",
+        "id": "1293914852768546"
+    },
+    {
+        "name": "facturas_cs",
+        "status": "APPROVED",
+        "components": [
+            {
+                "type": "HEADER",
+                "format": "DOCUMENT",
+                "example": {
+                    "header_handle": [
+                        "https:\/\/scontent.whatsapp.net\/v\/t61.29466-34\/593529153_866078056339592_2223712627823304882_n.pdf?ccb=1-7&_nc_sid=8b1bef&_nc_ohc=EXWL7T2p1egQ7kNvwFphkCa&_nc_oc=Adq65hj5Qdlmsii9brcm91Os2fN-VTt2Th0d2T4gRJhUgzVjJ0h9P9UI0VbbxTLYjI4&_nc_zt=3&_nc_ht=scontent.whatsapp.net&edm=AH51TzQEAAAA&_nc_gid=smJhJnGGdfuEcr-Fa9woIQ&_nc_tpa=Q5bMBQIS5j9loBeYtNMYkD1lz9UC7PWmLvgsC3Z9tTWwTuKlggLdeiRViaxybcPHeAVwQwJwWeQUMFRd&oh=01_Q5Aa5QF42padmyVHbkd9-rQfFcYfftUMR5Lko5BgwSx0ZO_LAQ&oe=6AB14128"
+                    ]
+                }
+            },
+            {
+                "type": "BODY",
+                "text": "Hola *{{1}}*, adjuntamos {{2}} correspondientes a sus servicios realizados. \n\n*Si necesita la informaci\u00f3n de pago por favor de revisar las facturas en el encabezado de abajo o comunicarse con Soporte.*",
+                "example": {
+                    "body_text": [
+                        [
+                            "brandon",
+                            "las facturas"
+                        ]
+                    ]
+                }
+            }
+        ],
+        "language": "es_MX",
+        "id": "866078053006259"
+    },
+    {
+        "name": "recordatrio_renovaciones",
+        "status": "APPROVED",
+        "components": [
+            {
+                "type": "BODY",
+                "text": "Hola {{1}}, te enviamos la siguiente informaci\u00f3n sobre su licencia CONTPAQi\ud83d\udcca\n\nMe comunico de compuservicios BCS, para comentarle que su licencia de {{2}} caducara en {{3}} d\u00edas. por favor de responder este mensaje para el envi\u00f3 de su cotizaci\u00f3n, gracias!\n\nSi tienes alguna duda o comentario, estamos para ayudarte.",
+                "example": {
+                    "body_text": [
+                        [
+                            "Brandon",
+                            "facturacion",
+                            "14"
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "BUTTONS",
+                "buttons": [
+                    {
+                        "type": "URL",
+                        "text": "Ver costos generales",
+                        "url": "https:\/\/compuserviciosbcs.com\/Servicios-contpaqi.html"
+                    }
+                ]
+            }
+        ],
+        "language": "es_MX",
+        "id": "2077862373016143"
+    },
+    {
+        "name": "estados_de_cuenta",
+        "status": "APPROVED",
+        "components": [
+            {
+                "type": "BODY",
+                "text": "Hola {{1}}, esperamos que est\u00e9s muy bien \ud83d\udc4b\n\nTe compartimos el detalle de tu estado de cuenta actualizado:\n\n\ud83d\udcc4 *Cliente:* {{2}}  \n\ud83d\udcb0 *Saldo pendiente:* ${{3}}\n\n\ud83d\udccb *Facturas pendientes:*  \n{{4}}\n\nPor favor, confirma si deseas realizar el pago o si necesitas una pr\u00f3rroga o aclaraci\u00f3n.\n\n\u00a1Gracias por tu atenci\u00f3n y preferencia! \ud83d\ude4c",
+                "example": {
+                    "body_text": [
+                        [
+                            "brandon",
+                            "brandon",
+                            "15800",
+                            "F456"
+                        ]
+                    ]
+                }
+            }
+        ],
+        "language": "es_MX",
+        "id": "1193729132572476"
+    },
+    {
+        "name": "plantilla_general",
+        "status": "APPROVED",
+        "components": [
+            {
+                "type": "BODY",
+                "text": "Hola *{{1}}*, te enviamos la siguiente informaci\u00f3n personalizada:\n\n{{2}}\n\nSi tienes alguna duda o comentario, estamos para ayudarte.",
+                "example": {
+                    "body_text": [
+                        [
+                            "brandon",
+                            "que tal, hablo para darle seguimiento a su equipo, por favor de venir a la ubicacion que se le proporciono"
+                        ]
+                    ]
+                }
+            }
+        ],
+        "language": "es_MX",
+        "id": "1541625333471465"
+    },
+    {
+        "name": "pedir_pieza_cotizacion",
+        "status": "APPROVED",
+        "components": [
+            {
+                "type": "BODY",
+                "text": "Hola {{1}}, {{2}} \ud83d\udc4b\n\nMe gustar\u00eda {{3}}\n\nPor favor ind\u00edcame disponibilidad, precio y tiempo estimado de entrega.  \n\u00a1Gracias de antemano!",
+                "example": {
+                    "body_text": [
+                        [
+                            "BRANDON",
+                            "buenas tardes",
+                            "saber si tienen en existencia impresoras para tarjetas PVC. Precio y cantidades"
+                        ]
+                    ]
+                }
+            }
+        ],
+        "language": "es_MX",
+        "id": "790661876820775"
+    },
+    {
+        "name": "ubicacion_compuservicios",
+        "status": "APPROVED",
+        "components": [
+            {
+                "type": "BODY",
+                "text": "Hola {{1}}, te compartimos la ubicaci\u00f3n de nuestras oficinas para que puedas visitarnos \ud83e\udded\n\n\ud83d\udccd Direcci\u00f3n: La Paz, B.C.S.  Calle 2 s\/n, entre Acceso y Acceso, Col. Antares Residencial, CP 23085.  \ud83d\udccd A un costado del Instituto Multicultural Biling\u00fce Pino Pallas.\n\nPuedes vernos f\u00e1cilmente en Google Maps con el siguiente bot\u00f3n \ud83d\udc47",
+                "example": {
+                    "body_text": [
+                        [
+                            "brandon"
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "BUTTONS",
+                "buttons": [
+                    {
+                        "type": "URL",
+                        "text": "Ubicaci\u00f3n precisa",
+                        "url": "https:\/\/maps.app.goo.gl\/C8AzdjvqTakL3vwm7"
+                    }
+                ]
+            }
+        ],
+        "language": "es_MX",
+        "id": "1766169830658987"
+    },
+    {
+        "name": "novedad_actualizaciones_contpaq",
+        "status": "APPROVED",
+        "components": [
+            {
+                "type": "BODY",
+                "text": "Hola *{{1}}*, te compartimos una excelente noticia \ud83d\ude80\n\nYa est\u00e1n disponibles las nuevas versiones de *{{2}}* en su versi\u00f3n *{{3}}*, con mejoras en rendimiento, seguridad y funcionalidad.\n\nSi est\u00e1s {{4}} en actualizar, con gusto podemos enviarte una cotizaci\u00f3n personalizada. Solo resp\u00f3ndenos a este mensaje \ud83d\udce9\n\n\u00a1Haz clic en el siguiente bot\u00f3n para conocer todos los detalles!",
+                "example": {
+                    "body_text": [
+                        [
+                            "brandon von",
+                            "factura",
+                            "13.9.1",
+                            "interesada"
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "BUTTONS",
+                "buttons": [
+                    {
+                        "type": "URL",
+                        "text": "conoce los detalles",
+                        "url": "https:\/\/contenidos.contpaqi.com\/"
+                    }
+                ]
+            }
+        ],
+        "language": "es_MX",
+        "id": "1251060623472398"
+    },
+    {
+        "name": "plantilla_de_cobro",
+        "status": "APPROVED",
+        "components": [
+            {
+                "type": "BODY",
+                "text": "Hola *{{1}}*, un cordial saludo de parte de *COMPUSERVICIOS* \ud83d\udcbc\n\nTe recordamos que tienes un pago pendiente del servicio *{{2}}* por:\n\n\ud83d\udcc4 Concepto: *{{3}}*  \n\ud83d\udcb0 Monto:* {{4}} * \n\ud83d\udcc6 Fecha l\u00edmite:* {{5}}*\n\n**_Si necesita los datos de pago o transferencia por favor indicarlo_**",
+                "example": {
+                    "body_text": [
+                        [
+                            "brandon",
+                            "cambio de bisagras",
+                            "cambio de bisagras a laptop HP",
+                            "$897",
+                            "16\/09\/2025"
+                        ]
+                    ]
+                }
+            }
+        ],
+        "language": "es_MX",
+        "id": "1247544586878648"
+    },
+    {
+        "name": "apertura",
+        "status": "APPROVED",
+        "components": [
+            {
+                "type": "BODY",
+                "text": "\u00a1Hola *{{1}}*! \ud83d\udc4b  \nMi nombre es *{{2}}*, del equipo de *{{3}}*. Te escribimos para dar seguimiento con la conversaci\u00f3n y retomar el servicio",
+                "example": {
+                    "body_text": [
+                        [
+                            "juan",
+                            "Brandon",
+                            "soporte tecnico"
+                        ]
+                    ]
+                }
+            }
+        ],
+        "language": "es_MX",
+        "id": "1240027591152592"
+    },
+    {
+        "name": "seguimiento",
+        "status": "APPROVED",
+        "components": [
+            {
+                "type": "BODY",
+                "text": "Hola *{{1}}*, esperamos que est\u00e9s teniendo un excelente d\u00eda \ud83c\udf1f\n\nSolo quer\u00edamos hacer un seguimiento sobre tu solicitud sobre *{{2}}*",
+                "example": {
+                    "body_text": [
+                        [
+                            "brandon",
+                            "la actualizacion de su programa de contabildad"
+                        ]
+                    ]
+                }
+            }
+        ],
+        "language": "es_MX",
+        "id": "1093220046234449"
+    },
+    {
+        "name": "plantilla_de_cotizacion",
+        "status": "APPROVED",
+        "components": [
+            {
+                "type": "BODY",
+                "text": "\u00a1Hola {{1}}! \ud83d\udc4b  \nTe compartimos la cotizaci\u00f3n solicitada:\n\n\ud83d\udccb Servicio: {{2}}  \n\ud83d\udcb2 Total estimado: {{3}}  \n\ud83d\udd52 Vigencia: {{4}}\n\nPuedes revisar la cotizaci\u00f3n en PDF adjuntada abajo",
+                "example": {
+                    "body_text": [
+                        [
+                            "brandon",
+                            "instalacion de camaras ezviz",
+                            "$9.501.00",
+                            "15\/03\/2025"
+                        ]
+                    ]
+                }
+            }
+        ],
+        "language": "es_MX",
+        "id": "626681433778049"
+    },
+    {
+        "name": "abrir_chat",
+        "status": "APPROVED",
+        "components": [
+            {
+                "type": "HEADER",
+                "format": "TEXT",
+                "text": "CompuserviciosBCS"
+            },
+            {
+                "type": "BODY",
+                "text": "\ud83d\udc4b \u00a1Hola {{1}} ! Te contactamos para dar seguimiento a tu solicitud de {{2}}. Estamos disponibles para brindarte soporte y resolver cualquier duda.\n\n\u2705 Por favor, responde a este mensaje para continuar con la atenci\u00f3n.",
+                "example": {
+                    "body_text": [
+                        [
+                            "Nombre",
+                            "Servicio"
+                        ]
+                    ]
+                }
+            },
+            {
+                "type": "FOOTER",
+                "text": "Tu Aliado Tecnologico..."
+            }
+        ],
+        "language": "es_MX",
+        "id": "1656033162004963"
+    },
+    {
+        "name": "hello_world",
+        "status": "APPROVED",
+        "components": [
+            {
+                "type": "HEADER",
+                "format": "TEXT",
+                "text": "Hello World"
+            },
+            {
+                "type": "BODY",
+                "text": "Welcome and congratulations!! This message demonstrates your ability to send a WhatsApp message notification from the Cloud API, hosted by Meta. Thank you for taking the time to test with us."
+            },
+            {
+                "type": "FOOTER",
+                "text": "WhatsApp Business Platform sample message"
+            }
+        ],
+        "language": "en_US",
+        "id": "1222213459443647"
+    }
+]

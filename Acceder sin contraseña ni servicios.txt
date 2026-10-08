@@ -1,0 +1,9 @@
+abrir enviar_factura
+
+en el navegador ir a la terminal
+
+escribir
+
+document.getElementById('loginScreen').classList.add('hidden');
+document.getElementById('appLayout').classList.remove('hidden');
+nav('send');
