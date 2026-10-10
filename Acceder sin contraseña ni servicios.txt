@@ -1,4 +1,4 @@
-abrir enviar_factura
+abrir enviar_factura.html
 
 en el navegador ir a la terminal
 
